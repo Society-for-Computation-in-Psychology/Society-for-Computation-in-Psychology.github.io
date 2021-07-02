@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SCiP</title>
-    <link>https://computationinpsych.com/</link>
+    <link>https://society-for-computation-in-psychology.github.io/</link>
     <description>Recent content on SCiP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://computationinpsych.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://society-for-computation-in-psychology.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference Information</title>
-      <link>https://computationinpsych.com/conference/</link>
+      <link>https://society-for-computation-in-psychology.github.io/conference/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://computationinpsych.com/conference/</guid>
+      <guid>https://society-for-computation-in-psychology.github.io/conference/</guid>
       <description>Check out pnom stuff</description>
     </item>
     
     <item>
       <title>History of SCiP</title>
-      <link>https://computationinpsych.com/history/</link>
+      <link>https://society-for-computation-in-psychology.github.io/history/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://computationinpsych.com/history/</guid>
+      <guid>https://society-for-computation-in-psychology.github.io/history/</guid>
       <description>In 1971, Donald Tepas, then at St. Louis University, contacted the National Science Foundation with a request for support in developing an interactive system for searches. The NSF representative Tepas looked into the possibility of arranging a conference and publishing the proceedings. The first meeting was so successful that the meetings have been held ever since! The logo on the left is from this very first meeting in 1971.
 The Society for Computation in Psychology (SCiP) was previously known as the National Conference on the Use of On-Line Computers in Psychology.</description>
     </item>
     
     <item>
       <title>SCiP</title>
-      <link>https://computationinpsych.com/home/</link>
+      <link>https://society-for-computation-in-psychology.github.io/home/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://computationinpsych.com/home/</guid>
+      <guid>https://society-for-computation-in-psychology.github.io/home/</guid>
       <description>SCIP is great!</description>
     </item>
     
     <item>
       <title>SCiP Awards</title>
-      <link>https://computationinpsych.com/awards/</link>
+      <link>https://society-for-computation-in-psychology.github.io/awards/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://computationinpsych.com/awards/</guid>
+      <guid>https://society-for-computation-in-psychology.github.io/awards/</guid>
       <description>Castellan Prize SCiP&amp;rsquo;s primary annual award is the The John Castellan Student Paper Award for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year.</description>
     </item>
     
     <item>
       <title>Governance</title>
-      <link>https://computationinpsych.com/governance/</link>
+      <link>https://society-for-computation-in-psychology.github.io/governance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://computationinpsych.com/governance/</guid>
+      <guid>https://society-for-computation-in-psychology.github.io/governance/</guid>
       <description>President and Directorship
 President (2019) Danielle McNamara (Arizona State University)
 President-Elect (2020) Alexandra Paxton (University of Connecticut)
