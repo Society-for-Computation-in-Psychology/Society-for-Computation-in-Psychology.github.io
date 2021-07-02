@@ -1,108 +1,129 @@
-# Configuration of Hugo
-# Guide: https://sourcethemes.com/academic/docs/get-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
+# Tranquilpeak
+# Version : 0.4.3-BETA
+# Author : Thibaud Leprêtre
 
-# Title of your site
-title = "Academic"
+# I STRONGLY recommend you to use a CDN to speed up loading of pages.
+# There is many free CDN like Cloudinary or you can also use indirectly
+# by using services like Google Photos.
 
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://Society-for-Computation-in-Psychology.github.io"
+# If you want to store images yourself, please read this guidelines:
+# For users, if you only use this theme, put your images directly in `source/assets/images` folder
+# But if you want to add local images, you can put your images directly in `source/assets/images` folder
+# For developpers, if you modify this theme, put your images in `source/images` folder and
+# use grunt task `build` to synchronize assets
 
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
-
-############################
-## Advanced options below ##
-############################
-
-# Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
-
-# Get last modified date for content from Git?
-enableGitInfo = false
-
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
-removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
-
-summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 10  # Number of items per page in paginated lists.
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+baseURL = "https://computationinpsych.com"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "SCiP"
+theme = "hugo-tranquilpeak-theme"
+# googleAnalytics = "UA-123-45"
+paginate = 7
+canonifyurls = true
 publishDir = "docs"
 
-# Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
-  authors = "/author/:slug/"
-  tags = "/tag/:slug/"
-  categories = "/category/:slug/"
-  publication_types = "/publication-type/:slug/"
+  post = "/:year/:month/:slug/"
 
-[outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+[author]
+  name = "SCiP"
+  bio = "Society for Computation in Psychology. A forum for cutting-edge methods for the psychological sciences since 1971"
+  location = "United States"
+  # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
+  #gravatarEmail = "thibaud.lepretre@gmail.com"
+  # Your profile picture
+  # Overwritten by your gravatar image if `author.gravatarEmail` is filled
+  picture = "brain_icon.png"
+  # Your Twitter username without the @. E.g : thibaudlepretre
+  # twitter = "statstools"
 
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
+# Menu Configuration
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/home/"
+[[menu.main]]
+  weight = 2
+  identifier = "conference"
+  name = "Conference"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/conference/"
+[[menu.main]]
+  weight = 3
+  identifier = "governance"
+  name = "Governance"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/governance/"
+[[menu.main]]
+  weight = 4
+  identifier = "history"
+  name = "History"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/history/"
+[[menu.main]]
+  weight = 5
+  identifier = "awards"
+  name = "Awards"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/awards/"
+  
+[[menu.links]]
+  weight = 1
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>" 
+  url = "https://github.com/Society-for-Computation-in-Psychology"
+[[menu.links]]
+  weight = 2
+  identifier = "contactus"
+  name = "Contact Us"
+  pre = "<i class=\"sidebar-button-icon fa fa-envelope-o\"></i>" 
+  url = "mailto:compinpsych@gmail.com"
 
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
+[params]
+  # Customize date format use to render blog post date, categories and other
+  # You must use date format used by Go Time package https://golang.org/pkg/time/
+  # Months (not work with short month like "jan", "feb", etc) are translated if translation exists on i18n folders
+  # Default format is: January 2, 2006 
+  # dateFormat = "2 January 2006"
 
-# Configure the Markdown renderer.
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-  [markup.highlight]
-    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 3
+  # Global keywords configuration. Following keywords will be add to every pages
+  # keywords = ["development", "next-gen"]
 
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  # Syntax highlighter, possible choice between: "highlight.js" (recommanded) and "prism.js" (experimental)
+  # You can comment it to disable syntax highlighting
+  syntaxHighlighter = "highlight.js"
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+  # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
+  clearReading = false
 
-# Related content.
-[related]
-  threshold = 80.0
-  includeNewer = true
-  toLower = true
+  # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
+  # If false it will flat categories.
+  hierarchicalCategories = true
 
-  [[related.indices]]
-    name = "title"
-    weight = 60.0
+  description = "Society for Computation in Psychology"
 
-  [[related.indices]]
-    name = "summary"
-    weight = 50.0
+  # Customization
+  # Define the behavior of the sidebar
+  # 1: Display extra large sidebar on extra large screen, large sidebar on large screen,
+  #    medium sidebar on medium screen and header bar on small screen and
+  # extra large sidebar is swiped on extra large screen and large sidebar on all lower screen (default)
+  # 2: Display large sidebar on large screen, medium sidebar on medium screen and
+  #    header bar on small screen and large sidebar is swiped
+  # 3: Display medium sidebar on large and medium screen and header bar on small screen and
+  #    medium sidebar is swiped
+  # 4: Display header bar on all screens, extra large sidebar is swiped on extra large screen and
+  #    large sidebar is swiped on all lower screens
+  # 5: Display header bar on all screens and large sidebar is swiped on large screen
+  # 6: Display header bar on all screens and medium sidebar is swiped
+  sidebarBehavior = 2
 
-  [[related.indices]]
-    name = "tags"
-    weight = 80.0
-
-  [[related.indices]]
-    name = "categories"
-    weight = 70.0
-
-  [[related.indices]]
-    name = "authors"
-    weight = 20.0
+  # Your blog cover picture. I STRONGLY recommend you to use a CDN to speed up loading of pages.
+  # There is many free CDN like Cloudinary or you can also use indirectly
+  # by using services like Google Photos.
+  # Current image is on AWS S3 and delivered by AWS CloudFront.
+  # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
+  # and use relative url : `your-image.png`
+  coverImage = "computation_background2.jpg"
