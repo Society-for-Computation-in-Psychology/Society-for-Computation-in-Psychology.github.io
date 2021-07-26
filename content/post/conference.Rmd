@@ -1,0 +1,34 @@
+---
+title: Conference Information
+author: SCiP
+date: '2021-06-25'
+slug: conference
+url: /conference/
+showDate: false
+---
+
+## 2021 Conference Details
+
+The Annual Meeting of the Society for Computation in Psychology (SCiP) takes place one day before the main conference of the [Psychonomic Society](https://www.psychonomic.org/). SCiP 2021 will be held as a **hybrid** event on **November 4th** from **8:00 - 5:00 PM Central Time**. More details about the conference and submission information coming soon. 
+
+**Important reminder**: Because we are making use of the online platform for the hybrid portion of the event, make sure also to register at the main Psychonomic Society site, then on Mediasite. Links will be provided when they are available. 
+
+## Conference Supporters
+
+<center>
+![Sponsors](sponsors.jpg)
+[Psychonomic Society](https://www.psychonomic.org/) &nbsp; &nbsp; &nbsp; 
+[Psychology Software Tools](https://pstnet.com/) &nbsp; &nbsp; &nbsp; 
+[Cognition Lab](https://cognitionlab.com/)
+</center>
+
+## Past Programs
+
+Use the following links to download our avaliable programs. If you have a past program we do not have included please [email it](mailto:compinpsych@gmail.com) to us! 
+
+- [SCiP in the 1970s](scip70.zip)
+- [SCiP in the 1980s](scip80.zip)
+- [SCiP in the 1990s](scip90.zip)
+- [SCiP in the 2000s](scip00.zip)
+- [SCiP in the 2010s](scip10.zip)
+- [SCiP in the 2020s](scip20.zip)

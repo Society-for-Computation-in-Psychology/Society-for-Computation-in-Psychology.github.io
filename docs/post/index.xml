@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SCiP</title>
+    <link>https://society-for-computation-in-psychology.github.io/post/</link>
+    <description>Recent content in Posts on SCiP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://society-for-computation-in-psychology.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcements</title>
+      <link>https://society-for-computation-in-psychology.github.io/home/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/home/</guid>
+      <description>  Society for Computation in Psychology. A forum for cutting-edge methods for the psychological sciences since 1971. Computation, information, technology, statistics, applications and more!
+Email Address 
+  </description>
+    </item>
+    
+    <item>
+      <title>Conference Information</title>
+      <link>https://society-for-computation-in-psychology.github.io/conference/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/conference/</guid>
+      <description>2021 Conference Details The Annual Meeting of the Society for Computation in Psychology (SCiP) takes place one day before the main conference of the Psychonomic Society. SCiP 2021 will be held as a hybrid event on November 4th from 8:00 - 5:00 PM Central Time. More details about the conference and submission information coming soon.
+Important reminder: Because we are making use of the online platform for the hybrid portion of the event, make sure also to register at the main Psychonomic Society site, then on Mediasite.</description>
+    </item>
+    
+    <item>
+      <title>Governance</title>
+      <link>https://society-for-computation-in-psychology.github.io/governance/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/governance/</guid>
+      <description>President and Directorship
+President (2019) Danielle McNamara (Arizona State University)
+President-Elect (2020) Alexandra Paxton (University of Connecticut)
+Past-President (2018) Chris Westbury (University of Alberta)
+Executive Director (2019-present) Rick Dale (UCLA)
+For inquiries: scip.conference.organizer at gmail
+Click here for SCiP’s bylaws
+Steering Committee
+Erin Buchanan, Harrisburg University (2018-2021)
+Stephanie Huette, The University of Memphis (2018-2021)
+Kay Livesay, Linfield College (2018-2021)
+Laura Allen, University of New Hampshire (2017-2020)
+Blair Armstrong, University of Toronto (2017-2020)</description>
+    </item>
+    
+    <item>
+      <title>History of SCiP</title>
+      <link>https://society-for-computation-in-psychology.github.io/history/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/history/</guid>
+      <description>In 1971, Donald Tepas, then at St. Louis University, contacted the National Science Foundation with a request for support in developing an interactive system for searches. The NSF representative Tepas looked into the possibility of arranging a conference and publishing the proceedings. The first meeting was so successful that the meetings have been held ever since! The logo on the left is from this very first meeting in 1971.</description>
+    </item>
+    
+    <item>
+      <title>SCiP Awards</title>
+      <link>https://society-for-computation-in-psychology.github.io/awards/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/awards/</guid>
+      <description>Castellan Prize SCiP’s primary annual award is the The John Castellan Student Paper Award for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year.</description>
+    </item>
+    
+  </channel>
+</rss>

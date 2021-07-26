@@ -1,0 +1,56 @@
+---
+title: SCiP Awards
+author: SCiP
+date: '2021-06-10'
+slug: awards
+url: /awards/
+showDate: false
+---
+
+```{r echo = F}
+library(rio)
+library(flextable)
+```
+
+## Castellan Prize
+
+SCiP's primary annual award is the **The John Castellan Student Paper Award** for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year. The student must be the primary author and the presenter of the paper to be considered. The award is presented at the conference.
+
+### History of Winners
+
+```{r echo = F}
+castellan <- import("castellan.csv")
+castellan$Year <- as.character(castellan$Year)
+
+cast_table <- flextable(castellan)
+autofit(cast_table)
+```
+
+### FABBS Early Career Impact Award
+
+<center>
+  ![FABBS Logo](fabbsbig.png)
+</center>
+
+[The Federation of Associations in Behavioral & Brain Sciences (FABBS)](https://fabbs.org/) represents a coalition of scientific societies with a common goal of advancing our understanding of mind, brain and behavior. SCiP has been a member society of FABBS for several years. FABBS educates federal representatives and Congress on sciences of the mind, advocates for legislation and policy that enhance scientific training and resarch, and more. Because we are a FABBS society, members of SCiP get free access to {Policy Insights from the Behavioral and Brain Sciences](https://journals.sagepub.com/home/bbs) (PIBBS).
+
+FABBS organizes the [Early Career Impact Award](https://fabbs.org/honoring-our-scientists/impact-award-winners/), and each of its member societies, every few years, chooses a recipient whose research has already made a big impact at an early stage of professional development.
+
+#### 2019: Dr. Laura Allen, University of New Hampshire
+
+A prominent aim of Dr. Allen's research is to investigate the higher-level cognitive skills that are required for successful text comprehension and production, as well as the ways in which performance in these domains can be enhanced through strategy instruction and training. She has conducted a number of studies to understand how individual differences in cognitive skills and knowledge relate to performance on reading comprehension and writing assessments. This research has revealed a number of characteristics of successful readers and writers, such as their ability to generate inferences, their knowledge of vocabulary, and their ability to flexibly adapt their language across multiple tasks. Dr. Allen has drawn upon the findings from these studies to examine the impact of manipulating task instructions on task performance and to explore how educational technologies can be leveraged to facilitate learning. Laura has published approximately 80 peer reviewed publications, including 29 as first author, since 2013 -- a short and impressively productive career to date!
+
+Dr. Allen additionally received (as Co-PI) two four-year grants from the Institute of Education Sciences (IES) totaling approximately $1.4 million each. The purpose of these grants is to investigate how students process complex information in todays technology-driven society and to develop educational tools that provide students, teachers, and researchers with writing analytics and feedback.
+
+#### 2016: Dr. Rick Dale, UCLA
+
+Dr. Rick Dale is an internationally recognized authority on experimental and computational analyses of language, human interaction, language evolution, cognitive dynamics, and big data. He uses computational modeling, analysis of naturalistic behavior, and human experimentation to investigate a range of linguistic behaviors related to conversation, thinking, sentence processing, word categorization, and deception.
+
+Dr. Dale is particularly well known for inventing technologies to measure subtle supportive nonlinguistic gestures that people make during conversation (e.g., eye and arm movements) and for his sophisticated application of numeric methods including dynamical systems theory to make sense of how those gestures impact and influence peoples' comprehension and interaction. He is also known for his efforts to step outside of a limited analysis of linguistic behavior to build a comprehensive analysis of how people use and understand language in naturalistic settings and without the imposition of too-artificial constraints.
+
+#### 2012: Dr. Michael Jones, Indiana University
+
+Michael Jones' research focuses on language learning, comprehension, and knowledge representation in humans and machines. Jones combines computational and experimental techniques to examine large-scale statistical structure of certain environments with the goal of understanding how this structure could be learned and represented with the mathematical capabilities of human learning and memory. Jones also studies associative and recognition memory, categorization, decision-making, and the role of attention in reading and perception. He is particularly interested in the temporal dynamics of learning in all these domains, and how to model the time course of knowledge acquisition. His secondary interests involve the application of these models to practical problems in text mining, intelligent search algorithms, and automated comprehension and scoring algorithms.
+
+The National Science Foundation additionally awarded Jones a CAREER grant to investigate computational mechanisms for integrating linguistic and perceptual information in semantic representation. This project includes a very large scale "Semantic Pictionary" crowdsourcing project that includes several online games aimed at collecting massive amounts of perceptual data describing tens of thousands of words and explores mechanisms humans use to integrate the perceptual and linguistic information into a unified and embodied semantic representation.
+
