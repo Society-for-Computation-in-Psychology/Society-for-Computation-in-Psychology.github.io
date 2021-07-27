@@ -1,0 +1,20 @@
+---
+title: Announcements
+author: SCiP
+date: '2021-07-01'
+slug: announcements
+url: /announcements/
+showDate: false
+---
+
+```{r echo = F, fig.align='center', fig.alt="SCIP Logo", out.height="300px"}
+knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/02e9bfbebdae8af64bed074c48e5517e21f0a921/files/imgs/scip_logo-2020a.png")
+```
+
+**Society for Computation in Psychology**. A forum for cutting-edge methods for the psychological sciences since 1971. *Computation, information, technology, statistics, applications and more!*
+
+### Conference Information
+
+We will be hosting a hybrid event in tadem with 
+
+#### [Subscribe to the Mailing List](https://mailchi.mp/b3ede381bb15/scip-mailing-list)

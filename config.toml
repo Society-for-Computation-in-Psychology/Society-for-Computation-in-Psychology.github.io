@@ -40,10 +40,10 @@ publishDir = "docs"
 # Menu Configuration
 [[menu.main]]
   weight = 1
-  identifier = "home"
+  identifier = "announcements"
   name = "Announcements"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
-  url = "/home/"
+  url = "/announcements/"
 [[menu.main]]
   weight = 2
   identifier = "conference"
