@@ -17,18 +17,29 @@ The Society for Computation in Psychology (SCiP) was previously known as the Nat
 
 His full historical account can be found [here](https://link.springer.com/content/pdf/10.3758/BF03192776.pdf). Earlier histories have also been written, as cited below.
 
-Computers and technology in psychology can be a cornucopia or a Pandora's box. During the 20 years of its existence, the Society for Computation in Psychology has been an important focus for the appropriate and beneficial application of computingtechnology in psychology. Although the increase of computer use is unmistakable, cyclic trends in computer applications also can be identified and, together with current technological developments, lead to predictions, concerns, and challenges for the future. (Castellan, 1991)
+*<font size = "3">Computers and technology in psychology can be a cornucopia or a Pandora's box. During the 20 years of its existence, the Society for Computation in Psychology has been an important focus for the appropriate and beneficial application of computingtechnology in psychology. Although the increase of computer use is unmistakable, cyclic trends in computer applications also can be identified and, together with current technological developments, lead to predictions, concerns, and challenges for the future (Castellan, 1991).</font>*
 
+```{r echo = F, fig.align='center', fig.alt="Dr. Castellan", out.width="40%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/castellan.png")
+```
 
+*<font size = "3">The late Dr. N. John Castellan</font>*
 
-
-The late Dr. N. John Castellan
-
-As we enter the next decade, I believe it is important that the Society for Computation in Psychology (S.C.I.P.) develop a little sense of history. So I would like to cover some years of the organization's development and, in the process, cite several highlights that are worthy of note... (Sidowski, 1990)
+*<font size = "3">As we enter the next decade, I believe it is important that the Society for Computation in Psychology (S.C.I.P.) develop a little sense of history. So I would like to cover some years of the organization's development and, in the process, cite several highlights that are worthy of note (Sidowski, 1990).</font>*
 
 Presentations at SCiP have led to groundbreaking and influential papers. Many of these have been published in the Psychonomic Society journal *Behavior Research Methods* (BRM). Each year BRM hosts a special issue of papers from SCiP presentations. Here is a sample of some major papers presented at SCiP and published in BRM. Together, they reflect thousands of citations, and broad influence on the field of psychological science.
 
-Impactful SCiP papers of the past next →
-Cutting, J. E. (1978). A program to generate synthetic walkers as dynamic point-light displays. Behavior Research Methods and Instrumentation, 10, 91-94.
+Impactful SCiP papers across the years:
 
-Semantics of SCiP: Crump, Jamieson and Aujla (SCiP 2019) developed a semantic model along with an interactive tool to explore the conceptual trends of recent SCiP submissions. Click here to try it yourself! Reference: Crump, M. J. C., Jamieson, R. K., & Aujla, H. (SCiP 2019). Semantic Librarian for SCIP abstracts: An R Shiny App and Package for searching and visualizing semantic spaces. 
+- Cutting, J. E. (1978). A program to generate synthetic walkers as dynamic point-light displays. *Behavior Research Methods and Instrumentation*, 10, 91-94. [doi:10.3758/BF03205105](https://link.springer.com/article/10.3758%2FBF03205105)
+- Hintzman, D. L. (1984). MINERVA 2: A simulation model of human memory. *Behavior Research Methods, Instruments, and Computers*, 16, 96-101. [doi:10.3758/BF03202365](https://link.springer.com/article/10.3758%2FBF03202365)
+- Rosen, L. D., Sears, D. C. & Weil, M. M. (1987). Computerphobia. *Behavior Research Methods, Instruments, and Computers*, 19, 167-179. [doi:10.3758/BF03203781](https://link.springer.com/article/10.3758%2FBF03203781)
+- Schneider, W. (1988). Micro Experimental Laboratory: An integrated system for IBM PC compatibles. *Behavior Research Methods, Instruments, and Computers*, 20, 206-217. [doi:10.3758/BF03203833](https://link.springer.com/article/10.3758%2FBF03203833)
+- Dumais, S. T. (1991). Improving the retrieval of information from external sources. *Behavior Research Methods, Instruments, and Computers*, 23, 229-236. [doi:10.3758/BF03203370](https://link.springer.com/article/10.3758/BF03203370)
+- Cohen, J., MacWhinney, B., Flatt, M. & Provost, J. (1993). PsyScope: An interactive graphic system for designing and controlling experiments in the psychology laboratory using Macintosh computers. *Behavior Research Methods, Instruments, and Computers*, 25, 257-271. [doi:10.3758/BF03204507](https://link.springer.com/article/10.3758/BF03204507)
+- Lund, K. & Burgess, C. (1996). Producing high-dimensional semantic spaces from lexical co-occurrence. *Behavior Research Methods, Instruments, and Computers*, 28, 203-208. [doi:10.3758/BF03204766](https://link.springer.com/article/10.3758/BF03204766)
+- Reips, U. (2001). The Web experimental psychology lab: Five years of data collection on the Internet. *Behavior Research Methods, Instruments, and Computers*, 33, 201-211. [doi:10.3758/BF03195366](https://link.springer.com/article/10.3758/BF03195366)
+- Graesser, Arthur C, McNamara, Danielle S, Louwerse, Max M & Cai, Zhiqiang (2004). Coh-Metrix: Analysis of text on cohesion and language. *Behavior Research Methods*, 36, 193-202. [doi:10.3758/BF03195564](https://link.springer.com/article/10.3758/BF03195564)
+- Aujla, H., Crump, M.J.C., Cook, M.T. et al. (2019). The Semantic Librarian: A search engine built from vector-space models of semantics. *Behavior Research Methods*, 51, 2405–2418. [doi:10.3758/s13428-019-01268-4](https://link.springer.com/article/10.3758/s13428-019-01268-4)
+- Please submit your SCiP publications to [our email](mailto:compinpsych@gmail.com) for us to archive!
+

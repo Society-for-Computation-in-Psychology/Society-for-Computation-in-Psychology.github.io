@@ -9,7 +9,7 @@ showDate: false
 
 ```{r echo = F}
 library(rio)
-library(flextable)
+library(flextable) 
 ```
 
 ## Castellan Prize
@@ -28,11 +28,11 @@ autofit(cast_table)
 
 ### FABBS Early Career Impact Award
 
-<center>
-  ![FABBS Logo](fabbsbig.png)
-</center>
+```{r echo = F, fig.align='center', fig.alt="FABBS Logo", out.height="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/fabbsbig.png")
+```
 
-[The Federation of Associations in Behavioral & Brain Sciences (FABBS)](https://fabbs.org/) represents a coalition of scientific societies with a common goal of advancing our understanding of mind, brain and behavior. SCiP has been a member society of FABBS for several years. FABBS educates federal representatives and Congress on sciences of the mind, advocates for legislation and policy that enhance scientific training and resarch, and more. Because we are a FABBS society, members of SCiP get free access to {Policy Insights from the Behavioral and Brain Sciences](https://journals.sagepub.com/home/bbs) (PIBBS).
+[The Federation of Associations in Behavioral & Brain Sciences (FABBS)](https://fabbs.org/) represents a coalition of scientific societies with a common goal of advancing our understanding of mind, brain and behavior. SCiP has been a member society of FABBS for several years. FABBS educates federal representatives and Congress on sciences of the mind, advocates for legislation and policy that enhance scientific training and research, and more. Because we are a FABBS society, members of SCiP get free access to [Policy Insights from the Behavioral and Brain Sciences](https://journals.sagepub.com/home/bbs) (PIBBS).
 
 FABBS organizes the [Early Career Impact Award](https://fabbs.org/honoring-our-scientists/impact-award-winners/), and each of its member societies, every few years, chooses a recipient whose research has already made a big impact at an early stage of professional development.
 
