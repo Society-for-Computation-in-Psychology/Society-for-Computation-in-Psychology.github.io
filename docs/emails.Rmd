@@ -1,0 +1,133 @@
+---
+title: Previous Emails
+author: SCiP
+date: '2021-08-16'
+slug: emails
+url: /emails/
+showDate: false
+---
+
+Please note that not all links will be avaliable as this is an archive of the emails. Check the Announcements page for active links to conference submissions and other nominations. 
+
+### Conference Reminder - August 16, 2021
+
+Hi SCiPpers!
+
+Three important tasks for you:
+Nominate members or yourself for the Steering Committee and President: https://forms.gle/15H4HXPFRik3p7Ly7 extended to August 31st.
+Submit for the conference: https://forms.gle/aRD35wAMhnQTpaFs7 by August 31st.
+Nominate members or yourself for FABBS Early Career Award: https://forms.gle/z1mdg6hGWhqARZjBA by September 10th. 
+
+Conference Update: The Psychonomic Society is still planning for a hybrid conference, but is monitoring the situation in Louisiana (which is currently not optimal). The city of New Orleans has recently put in a mandate that patrons must show vaccination proof or a negative COVID test to enter buildings. We will monitor the situation to be flexible with those who want to change to virtual presentations if that need arises. 
+
+Important Due Dates: 
+ 
+Nominate Steering Committee Members / President
+August 31
+Conference Submissions 
+August 31
+Steering Committee / President Election 
+September 15
+Nominate Early Career Awards
+September 10
+Agenda to Psychonomics
+September 13
+Notification of Acceptance for Conference 
+September 15
+Full Session Agenda to Psychonomics
+September 20
+Online Spoken Talks Due
+TBA
+Castellan Student Papers Due
+October 1
+Review Affiliate Information 
+October 5-7
+Online Poster Presentations Due
+October 12
+Virtual Platform Access
+October 18
+Conference
+November 4
+
+ 
+Sincerely,
+Pietro Cipresso (U. Turin), SCiP President
+Erin Buchanan (Harrisburg U.), SCiP Executive Director
+Rick Dale (UCLA), SCiP Executive Director
+
+
+### Call for Presenters - July 27, 2021
+
+Dear colleague,
+ 
+Welcome to the new SCiP mailing list! You can unsubscribe with the links below or forward this email to people who may not have received it to sign up here (https://mailchi.mp/4df6e290ffee/ub0p519mz8). Check out our new website at https://computationinpsych.com/. 
+ 
+We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Nominate your candidates here by August 15th, 2021. 
+ 
+[a] Steering Committee: We need to replace members of the Steering Committee whose terms of office will end this year. The Society bylaws specify that each member may nominate up to five persons for the Steering Committee. The names of the six persons receiving the greatest number of nominations, and who signify their willingness to serve on the Steering Committee, will be placed on the election ballot. Elected members will serve for a three-year term, and cannot be elected to two consecutive terms. Self-nominations of qualified candidates are welcome.
+[b] President: The Society bylaws specify that each member may nominate up to two persons to serve as President-Elect. The names of three persons receiving the greatest number of nominations, and who signify their willingness to serve as President, will be placed on the election ballot. The President will serve for 1 year, and will constitute part of the Steering Committee as President-Elect and Past-President for 1 year each. Past Presidents are not eligible for re-election as President-Elect.
+ 
+The 51st annual meeting of the Society for Computation in Psychology (SCiP; formerly known as the Society for Computers in Psychology) is pleased to announce its call for papers. The meeting will be held on Thursday, November 4, 2021, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your paper by August 31, 2021. We will be holding this event as a hybrid with both in person and online presentations with more details to come as we learn them. 
+ 
+The theme for this year’s conference is 50 Years of Computation. As the world increasingly relies on computation, we look back to the advances and innovations from psychology and beyond. Submissions reflecting on the history of advancement in their area are welcomed. We also encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our online submission form or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+ 
+Sincerely,
+Pietro Cipresso (U. Turin), SCiP President
+Erin Buchanan (Harrisburg U.), SCiP Executive Director
+Rick Dale (UCLA), SCiP Executive Director
+ 
+Important dates:
+ 
+Nominate Steering Committee Members / President
+August 15
+Nominee Information Due
+August 22
+Steering Committee / President Election 
+August 31
+Conference Submissions 
+August 31
+Notification of Acceptance for Conference 
+September 15
+Online Presentations Due
+TBA
+Castellan Student Papers Due
+October 1
+Conference
+November 4
+
+ 
+What is SCiP?
+ 
+If you are new to SCiP, it is an organization of researchers interested in applications of computational techniques and methods in psychology. This includes applications in educational technology, emerging research methods, statistical analyses, web-based research, clinical applications, and computational modeling. The Society has also encouraged consideration of psychological aspects of hardware and software development and design. Membership is open to any person who has an academic degree and who is active in scientific applications of computers to psychological research.
+ 
+Program Information for the 2021 Conference
+ 
+The program will include papers, tutorials, and symposia dealing with the use of computers in all areas of psychological research, including (but not limited to): 
+ 
+     Web-based research, data collection, and tools
+     Online social media and communication
+     Brain imaging methods and analysis
+     Human-computer interaction 
+     Diagnostic and assessment tools
+     Eye tracking tools and applications
+     Novel experimental methodology
+     Psychology of video games
+     Instructional software
+     Modeling cognitive and neural processes
+     Statistical software and algorithms
+     Online learning and instruction
+     Virtual environments
+ 
+You need not be a current member of SCiP to present at the conference, and the modest conference registration fee also serves as your annual membership dues.
+ 
+Special Section of Behavior Research Methods
+ 
+Conference presenters (both spoken and poster presentations) are invited to submit articles based on presentations at the SCiP meeting to a special section of Behavior Research Methods, the official journal of the Society. Submissions should be prepared according to the guidelines of BRM (see http://brm.psychonomic journals.org/) and submitted through the BRM submission portal. It is important to indicate that the submission is for the “SCiP Issue.” in the online portal. Submissions are reviewed and published in an online collection, and therefore, they can be submitted at any time. 
+ 
+Student Awards
+ 
+First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych\@gmail.com for details. Please note that if you missed out last year, you are eligible this year!
+ 
+The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society, a one year subscription to BRM, and a $200 cash prize. 
+ 
+Students who wish to have their papers considered for the award should indicate their desire at the time of submission and are required to submit the complete manuscript for evaluation for the competition by October 1, 2021. The award for the outstanding student paper will be presented at the conference during the business meeting. 

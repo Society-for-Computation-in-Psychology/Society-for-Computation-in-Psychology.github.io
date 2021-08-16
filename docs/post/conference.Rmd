@@ -31,7 +31,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 ## Past Programs
 
-Use the following links to download our avaliable programs. If you have a past program we do not have included please [email it](mailto:compinpsych@gmail.com) to us! 
+Use the following links to download our available programs. If you have a past program we do not have included please [email it](mailto:compinpsych@gmail.com) to us! 
 
 - [SCiP in the 1970s](https://github.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/raw/master/files/programs/scip70.zip)
 - [SCiP in the 1980s](https://github.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/raw/master/files/programs/scip80.zip)
