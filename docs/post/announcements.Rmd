@@ -15,15 +15,9 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 You can view our previous emails to the society [using this link](/emails/).
 
-### Steering Committee and President
-
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Nominate your candidates here by **August 31st, 2021**.
-
-#### [Nominate Members](https://forms.gle/P1XaiATMEKAsD268A)
-
 ### Conference Information
 
-The Annual Meeting of the Society for Computation in Psychology (SCiP) takes place one day before the main conference of the [Psychonomic Society](https://www.psychonomic.org/). SCiP 2021 will be held as a **hybrid** event on **November 4th** from **8:00 - 5:00 PM Central Time**. More details about the conference and submission information coming soon. Please check out the [Conference](/conference/) page for more information. Submissions are due **August 31st, 2021**.
+The Annual Meeting of the Society for Computation in Psychology (SCiP) takes place one day before the main conference of the [Psychonomic Society](https://www.psychonomic.org/). SCiP 2021 will be held as a **virtual** event on **November 4th** from **8:00 - 5:00 PM Central Time**. Please check out the [Conference](/conference/) page for more information. Submissions are due **September 10th, 2021**.
 
 #### [Submit to SCiP 2021](https://forms.gle/cZ9nmCyvxvmh21J66 )
 
