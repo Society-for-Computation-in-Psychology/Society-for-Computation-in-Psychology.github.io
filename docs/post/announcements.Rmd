@@ -13,7 +13,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 **Society for Computation in Psychology**. A forum for cutting-edge methods for the psychological sciences since 1971. *Computation, information, technology, statistics, applications and more!*
 
-You can view our previous emails to the society [using this link](/emails/).
+You can view our previous emails to the society [using this link](/emails/). 
 
 ### Conference Information
 
