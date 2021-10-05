@@ -19,6 +19,9 @@ The theme for this year’s conference is 50 Years of Computation. As the world 
 
 ### [Pay Your Conference Dues](https://www.paypal.com/donate?hosted_button_id=D4PN39CWFS4NE)
 
+- Student and Post Docs: $15
+- Faculty/Independent Researchers (people with jobs who’ve graduated): $25
+
 ## Conference Supporters 
 
 ```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
