@@ -13,13 +13,16 @@ The Annual Meeting of the Society for Computation in Psychology (SCiP) takes pla
 
 The theme for this year’s conference is 50 Years of Computation. As the world increasingly relies on computation, we look back to the advances and innovations from psychology and beyond. Submissions reflecting on the history of advancement in their area are welcomed. 
 
-**Important reminder**: Because we are making use of the online platform for the event, make sure also to register at the main Psychonomic Society site, then on Mediasite. Links will be provided when they are available.
+**Important reminder**: Because we are making use of the online platform for the event, make sure also to register at the main Psychonomic Society site. Links will be provided when they are available.
 
 ### [View the Program](https://docs.google.com/document/d/1NSReHO97ClcSTgthCA58Y5BtauM8i0VPFAzgpnNsUGw/edit?usp=sharing)
 
 ### [Pay Your Conference Dues](https://www.paypal.com/donate?hosted_button_id=D4PN39CWFS4NE)
 
-## Conference Supporters
+- Student and Post Docs: $15
+- Faculty/Independent Researchers (people with jobs who’ve graduated): $25
+
+## Conference Supporters 
 
 ```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
 knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/sponsors.jpg")

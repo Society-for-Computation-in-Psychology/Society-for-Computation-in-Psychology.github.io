@@ -7,7 +7,7 @@ url: /history/
 showDate: false
 ---
 
-In 1971, Donald Tepas, then at St. Louis University, contacted the National Science Foundation with a request for support in developing an interactive system for searches. The NSF representative Tepas looked into the possibility of arranging a conference and publishing the proceedings. The first meeting was so successful that the meetings have been held ever since! The logo featured on our homepage. 
+In 1971, Donald Tepas, then at St. Louis University, contacted the National Science Foundation with a request for support in developing an interactive system for searches. The NSF representative Tepas looked into the possibility of arranging a conference and publishing the proceedings. The first meeting was so successful that the meetings have been held ever since! The logo featured on our homepage.
 
 The Society for Computation in Psychology (SCiP) was previously known as the National Conference on the Use of On-Line Computers in Psychology. The name was changed to the Society for Computers in Psychology in 1982. The first meeting was held on November 10th, 1971, at St. Louis University. This first meeting was held the day prior to the Psychonomic Society's meeting. SCiP is still held before the Psychonomic Society's meetings to this day! The first Presidential Address was given by Donald Tepas in 1973 and was entitled "Computer Analysis of the Electroencephalogram: Evolving, Promoting, and Provoking."
 
