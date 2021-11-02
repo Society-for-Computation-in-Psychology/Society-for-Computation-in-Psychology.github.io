@@ -21,7 +21,8 @@ showDate: false
 - 2021-2024: Xiaowei Zhao, Emmanuel College
 - 2021-2024: Caitlin Mills, University of New Hampshire
 - 2022-2025: Ulf-Dietrich Reips, University of Konstanz
-- 2022-2025: Brendan Johns, McGill University 
+- 2022-2025: Brendan Johns, McGill University
+- 2022-2025: Mitchell Dandignac, Stanford University 
 
 [Click here for SCiP's bylaws](https://docs.google.com/document/d/1lM7udTN3c8P17Xx5mkf6xChUIKabMR2y8Ibz2qfQbNk/edit)
 
