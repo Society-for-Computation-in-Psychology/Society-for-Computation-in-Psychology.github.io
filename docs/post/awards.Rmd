@@ -36,7 +36,7 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 FABBS organizes the [Early Career Impact Award](https://fabbs.org/honoring-our-scientists/impact-award-winners/), and each of its member societies, every few years, chooses a recipient whose research has already made a big impact at an early stage of professional development.
 
-#### 2021: Dr. Brendan Johns, McGill University
+#### 2021: Dr. Brendan Johns, McGill University 
 
 Dr. Brendan Johns is an Assistant Professor in the Department of Psychology at McGill University. The goal of his research is to redefine the field of computational cognitive science through trailblazing cognitive model development grounded in machine learning and big data methodologies. Dr. Johns’ research capitalizes on today’s incredible technology to collect human behavior at scale. The range and types of data that can now be assembled is unprecedented, from controlled crowdsourcing to data mining social media. Big data analytics and machine learning offers new opportunities to provide insights across psychology, and the research undertaken by Dr. Johns is an example of the power and promise of this research area.
 
