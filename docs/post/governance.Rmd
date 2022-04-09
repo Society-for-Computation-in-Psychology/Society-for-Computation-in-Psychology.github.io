@@ -9,25 +9,23 @@ showDate: false
 
 ### President and Directorship
 
-- President: Pietro Cipresso, University of Turin
-- President-Elect: Laura Allen, University of New Hampshire
+- President: Laura Allen, University of New Hampshire
+- President-Elect: TBA
 - Executive Director: Erin Buchanan, Harrisburg University
-- Executive Director: Rick Dale, UCLA
 
 ### Steering Committee
 
-- 2018-2021: Stephanie Huette, The University of Memphis
-- 2018-2021: Kay Livesay, Linfield College
 - 2021-2024: Xiaowei Zhao, Emmanuel College
 - 2021-2024: Caitlin Mills, University of New Hampshire
 - 2022-2025: Ulf-Dietrich Reips, University of Konstanz
 - 2022-2025: Brendan Johns, McGill University
-- 2022-2025: Mitchell Dandignac, Stanford University 
+- 2022-2025: Mitchell Dandignac, Stanford University
 
 [Click here for SCiP's bylaws](https://docs.google.com/document/d/1lM7udTN3c8P17Xx5mkf6xChUIKabMR2y8Ibz2qfQbNk/edit)
 
 ### Past Presidents
 
+- 2021: Pietro Cipresso, University of Turin
 - 2020: Alexandra Paxton, University of Connecticut
 - 2019: Danielle McNamara, Arizona State University
 - 2018: Chris Westbury, University of Alberta
@@ -80,6 +78,8 @@ showDate: false
 
 ### Past Steering Committee
 
+- 2018-2021: Stephanie Huette, The University of Memphis
+- 2018-2021: Kay Livesay, Linfield College
 - 2018-2020: Erin Buchanan, Harrisburg University
 - 2017-2020: Laura Allen, University of New Hampshire
 - 2017-2020: Blair Armstrong, University of Toronto
@@ -122,6 +122,7 @@ showDate: false
 
 ### Past SCiP Executive Directors
 
+- 2019-2021: Rick Dale, UCLA
 - 2017-2019: Geoff Hollis, University of Alberta 
 - 2011-2017: Rick Dale, UC Merced / UCLA
 - 2006-2010: Michael Jones, Indiana University 
