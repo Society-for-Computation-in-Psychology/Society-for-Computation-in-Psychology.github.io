@@ -29,6 +29,12 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 Presentations at SCiP have led to groundbreaking and influential papers. Many of these have been published in the Psychonomic Society journal *Behavior Research Methods* (BRM). Each year BRM hosts a special issue of papers from SCiP presentations. Here is a sample of some major papers presented at SCiP and published in BRM. Together, they reflect thousands of citations, and broad influence on the field of psychological science.
 
+Special Section of *Behavior Research Methods*:
+
+[View the collection](https://link.springer.com/collections/cbcgciabad)
+
+Conference presenters (both spoken and poster presentations) are invited to submit articles based on presentations at the SCiP meeting to a special section of Behavior Research Methods, the official journal of the Society. Submissions should be prepared according to the guidelines of BRM and submitted through the BRM submission portal. It is important to indicate that the submission is for the “SCiP Issue.” in the online portal. Submissions are reviewed and published in an online collection, and therefore, they can be submitted at any time.
+
 Impactful SCiP papers across the years:
 
 - Cutting, J. E. (1978). A program to generate synthetic walkers as dynamic point-light displays. *Behavior Research Methods and Instrumentation*, 10, 91-94. [doi:10.3758/BF03205105](https://link.springer.com/article/10.3758%2FBF03205105)
