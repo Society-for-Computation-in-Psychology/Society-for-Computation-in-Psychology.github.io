@@ -9,7 +9,7 @@ showDate: false
 
 ### President and Directorship
 
-- President: Laura Allen, University of New Hampshire
+- President: Laura Allen, University of Minnesota  
 - President-Elect: TBA
 - Executive Director: Erin Buchanan, Harrisburg University
 
@@ -22,6 +22,12 @@ showDate: false
 - 2022-2025: Mitchell Dandignac, Stanford University
 
 [Click here for SCiP's bylaws](https://docs.google.com/document/d/1lM7udTN3c8P17Xx5mkf6xChUIKabMR2y8Ibz2qfQbNk/edit)
+
+### Elections
+
+[a] Steering Committee: We need to replace members of the Steering Committee whose terms of office will end this year. The Society bylaws specify that each member may nominate up to five persons for the Steering Committee. The names of the six persons receiving the greatest number of nominations, and who signify their willingness to serve on the Steering Committee, will be placed on the election ballot. Elected members will serve for a three-year term, and cannot be elected to two consecutive terms. Self-nominations of qualified candidates are welcome.
+
+[b] President: The Society bylaws specify that each member may nominate up to two persons to serve as President-Elect. The names of three persons receiving the greatest number of nominations, and who signify their willingness to serve as President, will be placed on the election ballot. The President will serve for 1 year, and will constitute part of the Steering Committee as President-Elect and Past-President for 1 year each. Past Presidents are not eligible for re-election as President-Elect. 
 
 ### Past Presidents
 
