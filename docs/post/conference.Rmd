@@ -8,10 +8,20 @@ showDate: false
 ---
 
 ### 2022 Conference Information
+
+Pay your conference fee/register for the conference using our PayPal link: [here](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE).
+
+  - Pick a price point below:
+    - Student and Post Docs: $50.00
+    - Faculty/Independent Researchers (people with jobs who’ve graduated): $100.00
+    - I feel like covering some extra fees: $105.00
+  - If your university/job is covering the cost of the conference, consider covering the fees for us! (not necessary, just an option).
+  - If you use a paypal account, we will see the name associated with that account. If you pay directly with a credit card (no PayPal account necessary), your information will be grabbed from that page. If you are paying for someone else, please leave a note or send an email to compinpsych@gmail.com so we can make name tags. 
+  - We are registered 503(c), which makes your donation a tax exemption if you are in the United States! This registration also lowers the credit card/paypal fees. 
  
-The 52nd annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 17, 2022, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by August 1, 2022. We will be holding this event in person in Boston in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2022AnnualMeeting). 
+The 52nd annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 17, 2022, before the opening of the annual meeting of the Psychonomic Society. We will be holding this event in person in Boston in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2022AnnualMeeting). 
  
-The theme for this year’s conference is Psychology in the Age of Technology: Implications for Philosophy, Methods, and Practice. How has psychological study changed with the advances in technology? What is our role in this change? We also encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our [online submission form](https://forms.gle/QFDZcVc6VchgHSyw6). Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The theme for this year’s conference is Psychology in the Age of Technology: Implications for Philosophy, Methods, and Practice. How has psychological study changed with the advances in technology? What is our role in this change? Check out the program [here](https://docs.google.com/document/d/1XibXISDe_kTiA3O7z3FsPJRYhTYuJ87t9JqBreXqXvM/edit?usp=sharing). The program contains information about how to put together your talk or poster, along with room information, times, and dues. 
 
 ### 2022 Student Award Information
 
