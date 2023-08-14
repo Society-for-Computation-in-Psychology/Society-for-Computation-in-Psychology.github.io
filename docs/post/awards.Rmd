@@ -9,7 +9,7 @@ showDate: false
 
 ```{r echo = F}
 library(rio)
-library(flextable) 
+library(flextable)
 ```
 
 ## Castellan Prize
