@@ -15,15 +15,15 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 
 You can view our previous emails to the society [using this link](/emails/). 
 
-### 2023 Election Information 
-
-[Submit your nominations for president elect and board now!](https://forms.gle/9yE4Eymf56v6TkFw8)
- 
 ### 2023 Conference Information
+
+### [Program](https://docs.google.com/document/d/1Fc980u5TAe7RG0chN235-Ts2hMCaz65buaMjSCo-2-0/edit?usp=sharing)
+
+### [Pay Conference Fee](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE)
 
 The 53rd annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 16, 2023, before the opening of the annual meeting of the Psychonomic Society. We will be holding this event in person in San Francisco in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2023annualmeeting). 
  
-The theme for this year’s conference is Advancing Theory by Opening the Black Box: Uses of AI in Psychology. We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. [To submit an abstract or symposium proposal, please follow the instructions on our online submission form](https://forms.gle/9yE4Eymf56v6TkFw8). Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The theme for this year’s conference is Advancing Theory by Opening the Black Box: Uses of AI in Psychology. 
 
 ### 2023 Student Award Information
 
