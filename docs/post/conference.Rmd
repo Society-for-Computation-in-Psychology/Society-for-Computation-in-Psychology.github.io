@@ -7,7 +7,9 @@ url: /conference/
 showDate: false
 ---
 
-### 2023 Conference Information
+### 2023 Conference Information 
+
+Thank you all for attending SCiP and see you next year in NYC!
 
 ### [Program](https://docs.google.com/document/d/1Fc980u5TAe7RG0chN235-Ts2hMCaz65buaMjSCo-2-0/edit?usp=sharing) 
 
