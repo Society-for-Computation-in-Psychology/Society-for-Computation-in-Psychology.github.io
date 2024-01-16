@@ -15,7 +15,7 @@ showDate: false
 
 ### Steering Committee
 
-- 2021-2024: Xiaowei Zhao, Emmanuel College
+- 2021-2024: Xiaowei Zhao, Emmanuel College 
 - 2022-2025: Ulf-Dietrich Reips, University of Konstanz
 - 2022-2025: Brendan Johns, McGill University
 - 2022-2025: Mitchell Dandignac, Stanford University
