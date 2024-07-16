@@ -7,7 +7,7 @@ url: /awards/
 showDate: false
 ---
 
-```{r echo = F}
+```{r echo = F, warning = F, message = F}
 library(rio)
 library(flextable)
 ```

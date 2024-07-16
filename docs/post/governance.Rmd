@@ -9,8 +9,8 @@ showDate: false
 
 ### President and Directorship
 
-- President: Caitlin Mills, University of Minnesota
-- President-Elect: Shelia Kennison, Oklahoma State University
+- President: Shelia Kennison, Oklahoma State University
+- President-Elect: TBD
 - Executive Director: Erin Buchanan, Harrisburg University
 
 ### Steering Committee
@@ -34,6 +34,7 @@ showDate: false
 
 ### Past Presidents
 
+- 2023: Caitlin Mills, University of Minnesota
 - 2022: Laura Allen, University of Minnesota
 - 2021: Pietro Cipresso, University of Turin
 - 2020: Alexandra Paxton, University of Connecticut
