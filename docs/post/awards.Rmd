@@ -16,6 +16,12 @@ library(flextable)
 
 SCiP's primary annual award is the **The John Castellan Student Paper Award** for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year. The student must be the primary author and the presenter of the paper to be considered. The award is presented at the conference. 
 
+PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners!
+
+```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
+knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/PeerJ.jpg")
+```
+
 ### History of Winners
 
 ```{r echo = F}
