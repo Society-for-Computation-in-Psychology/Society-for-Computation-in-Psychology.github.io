@@ -17,19 +17,17 @@ You can view our previous emails to the society [using this link](/emails/).
 
 ### 2024 Conference Information 
 
-#### [Submit Abstracts](https://forms.gle/FiWFFXdvSCkeXi7M7)
+#### [Program](https://docs.google.com/document/d/1WJuuWJ6LcDzSX6KKe1-8ChnkKk14iDTaAXHh3xgQIEM/edit?pli=1&tab=t.0#bookmark=id.s0g8ag6ghi3e)
 
-The 54th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 21, 2024, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by August 31, 2024. We will be holding this event in person in New York in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2024annualmeeting).
+#### [Register](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE)
 
-The theme for this year’s conference is Digital Cognitive Science: Software-driven Insights into the Mind. We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our [online submission form](https://forms.gle/FiWFFXdvSCkeXi7M7). Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The 54th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 21, 2024, before the opening of the annual meeting of the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2024annualmeeting). The theme for this year's conference is Digital Cognitive Science: Software-driven Insights into the Mind. 
 
 ### 2024 Student Award Information
 
 First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details.
  
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results (up to 3000 words, excluding references, tables, figures, and a title page). Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by October 15th, 2024. The award for the outstanding student paper will be announced after the conference. 
-
-PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners! 
+The Society sponsors The Castellan Student Paper Award for the outstanding student paper. The award for the outstanding student paper will be announced after the conference. PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners! 
 
 ```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
 knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/PeerJ.jpg")
