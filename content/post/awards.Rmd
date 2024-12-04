@@ -8,7 +8,7 @@ showDate: false
 ---
 
 ```{r echo = F, warning = F, message = F}
-library(rio)
+library(rio) 
 library(flextable)
 ```
 

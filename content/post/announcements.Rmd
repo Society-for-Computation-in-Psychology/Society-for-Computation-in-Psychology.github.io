@@ -17,17 +17,13 @@ You can view our previous emails to the society [using this link](/emails/).
 
 ### 2024 Conference Information 
 
-#### [Program](https://docs.google.com/document/d/1WJuuWJ6LcDzSX6KKe1-8ChnkKk14iDTaAXHh3xgQIEM/edit?pli=1&tab=t.0#bookmark=id.s0g8ag6ghi3e)
-
-#### [Register](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE)
-
-The 54th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 21, 2024, before the opening of the annual meeting of the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2024annualmeeting). The theme for this year's conference is Digital Cognitive Science: Software-driven Insights into the Mind. 
+Thanks for a great conference! See you next year in Denver.
 
 ### 2024 Student Award Information
 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details.
- 
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. The award for the outstanding student paper will be announced after the conference. PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners! 
+We had two winners this year! Congrats to Abi Sipes and Zhen Zu. You can view the award page to check out their paper information.
+
+PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners! 
 
 ```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
 knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/PeerJ.jpg")
