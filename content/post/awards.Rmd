@@ -18,6 +18,8 @@ SCiP's primary annual award is the **The John Castellan Student Paper Award** fo
 
 PeerJ supports early career researchers by offering free publication to the 2024 Castellan Award winner, along with an interview about their research. You can find an example [here](https://peerj.com/blog/post/115284886860/peerj-award-winners-18imco/). We thank them for supporting SCiP's award winners! 
 
+Check out the 2024 winners on PeerJ: [Blog Post](https://peerj.com/blog/post/115284890090/peerj-award-winners-at-scip-2024/). 
+
 ```{r echo = F, fig.align='center', fig.alt="SCiP Sponsors", out.height="80%"}
 knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/master/files/imgs/PeerJ.jpg")
 ```
@@ -41,6 +43,16 @@ knitr::include_graphics("https://raw.githubusercontent.com/Society-for-Computati
 [The Federation of Associations in Behavioral & Brain Sciences (FABBS)](https://fabbs.org/) represents a coalition of scientific societies with a common goal of advancing our understanding of mind, brain and behavior. SCiP has been a member society of FABBS for several years. FABBS educates federal representatives and Congress on sciences of the mind, advocates for legislation and policy that enhance scientific training and research, and more. Because we are a FABBS society, members of SCiP get free access to [Policy Insights from the Behavioral and Brain Sciences](https://journals.sagepub.com/home/bbs) (PIBBS).
 
 FABBS organizes the [Early Career Impact Award](https://fabbs.org/honoring-our-scientists/impact-award-winners/), and each of its member societies, every few years, chooses a recipient whose research has already made a big impact at an early stage of professional development.
+
+#### 2024: Dr. Alex Paxton, University of Conneticut 
+
+Dr. Alexandra Paxton’s research significantly advances our understanding of human behavior, data ethics, and scientific accessibility. Her research on interpersonal coordination dynamics challenges the traditional focus on cooperation by examining understudied contexts like conflict. Using multimodal approaches—integrating speech, language, movement, and emotion—she reveals how these interactions unfold across various media, such as face-to-face and text-based communication. This research is especially relevant in today’s polarized society and provides valuable insights for improving dialogue in contentious discussions. Her theoretical models offer a deeper understanding of how context shapes human interaction, enhancing the science of communication and social behavior.
+ 
+Dr. Alexandra Paxton is also a prominent voice in data ethics. Her scholarship emphasizes ethical, transparent, and person-centered practices in human-derived, large-scale data research. Throughout her career, she has explored the implications of data collection and use, advocating for research practices that honor the dignity and rights of participants. For instance, Dr. Paxton has proposed an expansion of the foundational principles of the Belmont Report aimed to address challenges in big data research, including consent, privacy, and the potential for re-identification. Through this research, Dr. Paxton is helping to establish a framework for ethical research that promotes the responsible use of data and ensures the protection of individuals’ rights, even as technological capabilities evolve.
+ 
+Further, Dr. Paxton is committed to making data-intensive sciences more inclusive and accessible. She develops open-source tools and resources aimed at lowering barriers for researchers, particularly those from less technical backgrounds or historically underrepresented groups in STEM. Her dedication to equity is reflected in her mentorship: over 75% of her undergraduate research assistants identify as members of underrepresented or historically excluded groups. She actively engages with the McNair Scholar Program and the Work-Study Research Assistantship Program at UConn, encouraging broader participation in research and supporting students’ professional development.
+ 
+Importantly, Dr. Paxton’s work has direct implications for policy and practice. She applies her research to promote prosocial outcomes and reduce divisiveness in real-world settings, such as improving conflict outcomes through interventions that move beyond traditional methods. Her interdisciplinary approach, leadership in data ethics, and dedication to diversity and inclusion position her as an influential figure in the field, with a tangible impact on scientific practice and society. Overall, Dr. Paxton’s accomplishments embody the principles of open science, equitable research, and transformative scholarship, making her an ideal candidate for the FABBS Early Career Impact Award.
 
 #### 2021: Dr. Brendan Johns, McGill University 
 
