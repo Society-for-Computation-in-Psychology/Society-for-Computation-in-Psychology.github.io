@@ -9,13 +9,12 @@ showDate: false
 
 ### President and Directorship
 
-- President: Shelia Kennison, Oklahoma State University
+- President: TBD
 - President-Elect: TBD
 - Executive Director: Erin Buchanan, Harrisburg University
 
 ### Steering Committee
 
-- 2021-2024: Xiaowei Zhao, Emmanuel College 
 - 2022-2025: Ulf-Dietrich Reips, University of Konstanz
 - 2022-2025: Brendan Johns, McGill University
 - 2022-2025: Mitchell Dandignac, Stanford University
@@ -24,7 +23,7 @@ showDate: false
 - 2024-2027: Alex Paxton, University of Connecticut
 - 2024-2027: Nicholas Maxwell, Midwestern State University
 
-[Click here for SCiP's bylaws](https://docs.google.com/document/d/1lM7udTN3c8P17Xx5mkf6xChUIKabMR2y8Ibz2qfQbNk/edit)
+[Click here for SCiP's bylaws](https://docs.google.com/document/d/16M0Gxi4q4ArltfbppbhIbrAyVmmCdtiZ/edit)
 
 ### Elections
 
@@ -34,6 +33,7 @@ showDate: false
 
 ### Past Presidents
 
+- 2024: Shelia Kennison, Oklahoma State University
 - 2023: Caitlin Mills, University of Minnesota
 - 2022: Laura Allen, University of Minnesota
 - 2021: Pietro Cipresso, University of Turin
@@ -89,6 +89,7 @@ showDate: false
 
 ### Past Steering Committee
 
+- 2021-2024: Xiaowei Zhao, Emmanuel College 
 - 2021-2023: Caitlin Mills, University of Minnesota
 - 2018-2021: Stephanie Huette, The University of Memphis
 - 2018-2021: Kay Livesay, Linfield College
