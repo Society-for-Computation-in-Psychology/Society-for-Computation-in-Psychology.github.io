@@ -40,7 +40,7 @@ Hosted by the [iScience research group](https://www.uni-konstanz.de/iscience/) a
 
 📅 **Deadline:** October 1, 2025 (Early bird fee ends September 15)
 
-[Learn more by downloading this information sheet.](https://computationinpsych.com/docs/post/iscience_2025.docx)
+[Learn more by downloading this information sheet.](https://github.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/blob/master/docs/post/iscience_2025.docx)
 
 
 ### Special Section of Behavior Research Methods
