@@ -9,7 +9,7 @@ showDate: false
 
 ### President and Directorship
 
-- President: TBD
+- President: Katie McCarthy, Georgia State University
 - President-Elect: TBD
 - Executive Director: Erin Buchanan, Harrisburg University 
 
@@ -18,10 +18,11 @@ showDate: false
 - 2022-2025: Ulf-Dietrich Reips, University of Konstanz
 - 2022-2025: Brendan Johns, McGill University
 - 2022-2025: Mitchell Dandignac, Stanford University
-- 2023-2026: Katie McCarthy, Georgia State University
 - 2024-2027: Stephen Hutt, University of Denver
 - 2024-2027: Alex Paxton, University of Connecticut
 - 2024-2027: Nicholas Maxwell, Midwestern State University
+- 2025-2028: Veronica Romero,  Colby College 
+- 2025-2028: John Hollander, Arkansas State University
 
 [Click here for SCiP's bylaws](https://docs.google.com/document/d/16M0Gxi4q4ArltfbppbhIbrAyVmmCdtiZ/edit)
 
@@ -89,6 +90,7 @@ showDate: false
 
 ### Past Steering Committee
 
+- 2023-2025: Katie McCarthy, Georgia State University
 - 2021-2024: Xiaowei Zhao, Emmanuel College 
 - 2021-2023: Caitlin Mills, University of Minnesota
 - 2018-2021: Stephanie Huette, The University of Memphis
