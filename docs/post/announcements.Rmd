@@ -17,31 +17,27 @@ You can view our previous emails to the society [using this link](/emails/).
 
 ### 2025 Conference Information 
 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Learn more about the nomination process and voting [here](https://computationinpsych.com/governance/). You can nominate yourself or others while submitting your abstract for the conference. Note you can also just nominate individuals without submitting an abstract. [Use this submission form for nominations and abstract submission](https://forms.gle/pnaYKzVYnJSPT3Mm8). 
+The theme for this year’s conference is *Computation Everywhere: Studying Cognition in Environments of Technological Ubiquity*. In a time where computers and AI proliferate all aspects of our lives, how do we harness the rapidly evolving power of computation to study cognition? 
 
-The 55th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 20, 2025, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by *August 31, 2025*. We will be holding this event in person in Denver in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2025annualmeeting).
+#### [Program](https://docs.google.com/document/d/1GZuYtkNH3ExodxKjuR2OECpt7t_9CRpgGaFhQETsxBA/edit?tab=t.0)
 
+#### [Register and Pay Conference Fee](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE)
 
-The theme for this year’s conference is *Computation Everywhere: Studying Cognition in Environments of Technological Ubiquity*. In a time where computers and AI proliferate all aspects of our lives, how do we harness the rapidly evolving power of computation to study cognition? We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on [our online submission form](https://forms.gle/pnaYKzVYnJSPT3Mm8) or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+Pick a price point on the site:
+
+-   Student and Post Docs: \$80.00
+-   Faculty/Independent Researchers (people with jobs who’ve graduated):
+    \$150.00
+-   I feel like covering some extra fees: \$155.00
+-   Note: We do our best to break even to keep costs down for everyone.
+
+If your university/job is covering the cost of the conference, consider covering the fees for us! (not necessary, just an option). If you use a paypal account, we will see the name associated with that account. If you pay directly with a credit card (no PayPal account necessary), your information will be grabbed from that page. If you are paying for someone else, please leave a note or send an email to compinpsych@gmail.com so we can make name tags. We are registered 503(c), which makes your donation a tax exemption if you are in the United States! This registration also lowers the credit card/paypal fees. You can also pay by cash or check in person at the conference (US Dollars). 
 
 ### 2025 Student Award Information
 
 First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the *Birnbaum Scholarship* for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details. 
 
 The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results *(up to 3000 words, excluding references, tables, figures, and a title page)*. Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by *October 15th, 2025*. The award for the outstanding student paper will be announced after the conference. 
-
-### Special Announcement for 6th Summer School on Internet-based Data Collection and Analysis
-
-**October 13–17, 2025 @ University of Konstanz** 
-
-Hosted by the [iScience research group](https://www.uni-konstanz.de/iscience/) at the Department of Psychology, University of Konstanz.  
-
-👉 **[Apply here](https://iscience.uni-konstanz.de/collaborations/6th-konstanz-summer-school-on-internet-based-data-collection-and-analysis/)**  
-
-📅 **Deadline:** October 1, 2025 (Early bird fee ends September 15)
-
-[Learn more by downloading this information sheet.](https://github.com/Society-for-Computation-in-Psychology/Society-for-Computation-in-Psychology.github.io/blob/master/docs/post/iscience_2025.docx)
-
 
 ### Special Section of Behavior Research Methods
 

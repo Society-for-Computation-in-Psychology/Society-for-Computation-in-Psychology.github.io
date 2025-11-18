@@ -1,49 +1,150 @@
 ---
 title: Previous Emails
-author: SCiP
-date: '2021-08-16'
 slug: emails
 url: /emails/
 showDate: false
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
-Please note that not all links will be available as this is an archive of the emails. Check the Announcements page for active links to conference submissions and other nominations.
+Please note that not all links will be available as this is an archive
+of the emails. Check the Announcements page for active links to
+conference submissions and other nominations.
+
+### SCiP 2025 Register and Program
+
+SCiP 2025 Conference
+
+Hello everyone! The SCiP Program for the 2025 conference is now
+available for everyone with a few small pending updates. [You can view
+the program by using this
+link](https://docs.google.com/document/d/1GZuYtkNH3ExodxKjuR2OECpt7t_9CRpgGaFhQETsxBA/edit?tab=t.0).
+The program has the complete schedule, locations, and preparation for
+SCiP 2025. The theme this year is Computation Everywhere: Studying
+Cognition in Environments of Technological Ubiquity. We hope you join us
+in Denver.
+
+Register and Pay Conference Fee
+
+[Pay your conference fee/register for the conference using our PayPal
+link.](https://www.paypal.com/donate/?hosted_button_id=D4PN39CWFS4NE)
+
+Pick a price point on the site:
+
+-   Student and Post Docs: \$80.00
+-   Faculty/Independent Researchers (people with jobs who’ve graduated):
+    \$150.00
+-   I feel like covering some extra fees: \$155.00
+-   Note: We do our best to break even to keep costs down for everyone.
+
+If your university/job is covering the cost of the conference, consider
+covering the fees for us! (not necessary, just an option). If you use a
+paypal account, we will see the name associated with that account. If
+you pay directly with a credit card (no PayPal account necessary), your
+information will be grabbed from that page. If you are paying for
+someone else, please leave a note or send an email to
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} so we can
+make name tags. We are registered 503(c), which makes your donation a
+tax exemption if you are in the United States! This registration also
+lowers the credit card/paypal fees. You can also pay by cash or check in
+person at the conference (US Dollars).
+
+Late Breaking Posters
+
+If you, your students, or colleagues want to present a poster at the
+conference - we still have room! We will accept these until November
+10th. Please fill out the submission form here.
+
+Let us know if you have any questions.
+
+Thank you!
+
+Katie McCarthy, President
+
+Erin Buchanan, Executive Director
 
 ### SCiP 2025 Call for Submissions
 
-2025 Conference Information 
+2025 Conference Information
 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Learn more about the nomination process and voting [here](https://computationinpsych.com/governance/). You can nominate yourself or others while submitting your abstract for the conference. Note you can also just nominate individuals without submitting an abstract. [Use this submission form for nominations and abstract submission](https://forms.gle/pnaYKzVYnJSPT3Mm8). 
+We now invite nominations for candidates for [a] three positions on the
+Society's Steering Committee, [b] for the new President-Elect. All
+members are invited to participate in this process. Learn more about the
+nomination process and voting
+[here](https://computationinpsych.com/governance/). You can nominate
+yourself or others while submitting your abstract for the conference.
+Note you can also just nominate individuals without submitting an
+abstract. [Use this submission form for nominations and abstract
+submission](https://forms.gle/pnaYKzVYnJSPT3Mm8).
 
-The 55th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 20, 2025, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by *August 31, 2025*. We will be holding this event in person in Denver in tandem with the [Psychonomic Society Meeting](https://www.psychonomic.org/page/2025annualmeeting).
+The 55th annual meeting of the Society for Computation in Psychology
+(SCiP) is pleased to announce its call for abstracts. The meeting will
+be held on Thursday, November 20, 2025, before the opening of the annual
+meeting of the Psychonomic Society. We invite you to submit your
+abstract by *August 31, 2025*. We will be holding this event in person
+in Denver in tandem with the [Psychonomic Society
+Meeting](https://www.psychonomic.org/page/2025annualmeeting).
 
-
-The theme for this year’s conference is *Computation Everywhere: Studying Cognition in Environments of Technological Ubiquity*. In a time where computers and AI proliferate all aspects of our lives, how do we harness the rapidly evolving power of computation to study cognition? We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on [our online submission form](https://forms.gle/pnaYKzVYnJSPT3Mm8) or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The theme for this year’s conference is *Computation Everywhere:
+Studying Cognition in Environments of Technological Ubiquity*. In a time
+where computers and AI proliferate all aspects of our lives, how do we
+harness the rapidly evolving power of computation to study cognition? We
+encourage our members to share this call with others who are doing
+related work but who may not be regular SCiP attendees. To submit an
+abstract or symposium proposal, please follow the instructions on [our
+online submission form](https://forms.gle/pnaYKzVYnJSPT3Mm8) or linked
+on our website. Please consider forwarding our conference call to folks
+around your department (especially if they have been unable to attend
+SCiP in the past). We hope to see you there!
 
 2025 Student Award Information
 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the *Birnbaum Scholarship* for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details. 
+First-time graduate student presenters are strongly encouraged to submit
+abstracts. If you are a first-time graduate student attending SCiP, and
+the primary presenter, you may be eligible to have your registration
+waived as part of the *Birnbaum Scholarship* for first-time graduate
+presenters. Please contact our Executive Director, Erin Buchanan at
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} for
+details.
 
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results *(up to 3000 words, excluding references, tables, figures, and a title page)*. Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by *October 15th, 2025*. The award for the outstanding student paper will be announced after the conference. 
+The Society sponsors The Castellan Student Paper Award for the
+outstanding student paper. Student papers should consist of a brief
+introduction, methods, and results *(up to 3000 words, excluding
+references, tables, figures, and a title page)*. Student papers on the
+application of computers to any area of psychology (theoretical,
+experimental, applied) are welcome. Eligibility is open to work done by
+a student currently enrolled in undergraduate or graduate courses, or
+work done as part of a course, thesis, or other student research by a
+person who graduated within the last year. The student must be the
+primary author and the presenter of the paper. The winning author will
+receive a one year membership in the Society and a \$200 cash prize.
+Students are required to submit the complete manuscript for evaluation
+for the competition by *October 15th, 2025*. The award for the
+outstanding student paper will be announced after the conference.
 
 ### Action Requested: Vote on Steering Committee, President, and Bylaws Updates sent
 
-** SCiP: Member Vote on Leadership and Bylaws**
+\*\* SCiP: Member Vote on Leadership and Bylaws\*\*
 
-We invite you to participate in an important vote to confirm Society leadership and review updates to our governing documents.
+We invite you to participate in an important vote to confirm Society
+leadership and review updates to our governing documents.
 
-This vote includes:
-* Confirmation of incoming Steering Committee members
-* Confirmation of the President
-* Review and approval of proposed bylaws revisions
+This vote includes: \* Confirmation of incoming Steering Committee
+members \* Confirmation of the President \* Review and approval of
+proposed bylaws revisions
 
-The proposed bylaw changes are summarized in the voting form and are available in full at the following link: [Bylaws Document](https://docs.google.com/document/d/16M0Gxi4q4ArltfbppbhIbrAyVmmCdtiZ/edit?usp=sharing)
+The proposed bylaw changes are summarized in the voting form and are
+available in full at the following link: [Bylaws
+Document](https://docs.google.com/document/d/16M0Gxi4q4ArltfbppbhIbrAyVmmCdtiZ/edit?usp=sharing)
 
-To cast your vote, please complete the following form: [Member Voting Form](https://docs.google.com/forms/d/e/1FAIpQLScguIOuDxsXN1TQJtUicHZbnst9LE1OCCTOdO4npWNc_PWYvw/viewform?usp=dialog)
+To cast your vote, please complete the following form: [Member Voting
+Form](https://docs.google.com/forms/d/e/1FAIpQLScguIOuDxsXN1TQJtUicHZbnst9LE1OCCTOdO4npWNc_PWYvw/viewform?usp=dialog)
 
 We ask that all votes be submitted by July 15th.
 
-The call for submissions will appear after this vote commences - keep an eye out!
+The call for submissions will appear after this vote commences - keep an
+eye out!
 
 Thank you!
 
@@ -53,27 +154,43 @@ Erin Buchanan, Executive Director
 
 SCiP 2024 Conference
 
-Hello everyone! The SCiP Program for the 2024 conference is now available for everyone with a few small pending updates. You can view the program by using this link. The program has the complete schedule, locations, and preparation for SCiP 2024. The theme this year is Digital Cognitive Science: Software Driving Insights into the Mind. We hope you join us in New York.
-Register and Pay Conference Fee
+Hello everyone! The SCiP Program for the 2024 conference is now
+available for everyone with a few small pending updates. You can view
+the program by using this link. The program has the complete schedule,
+locations, and preparation for SCiP 2024. The theme this year is Digital
+Cognitive Science: Software Driving Insights into the Mind. We hope you
+join us in New York. Register and Pay Conference Fee
 
-Pay your conference fee/register for the conference using our PayPal link.
+Pay your conference fee/register for the conference using our PayPal
+link.
 
 Pick a price point on the site:
 
-- Student and Post Docs: $80.00
-- Faculty/Independent Researchers (people with jobs who’ve graduated): $150.00
-- I feel like covering some extra fees: $155.00
-- Note: The increase is due to the increase in cost of food for New York and the increase in FABBS due. We do our best to break even to keep costs down for everyone.  
+-   Student and Post Docs: \$80.00
+-   Faculty/Independent Researchers (people with jobs who’ve graduated):
+    \$150.00
+-   I feel like covering some extra fees: \$155.00
+-   Note: The increase is due to the increase in cost of food for New
+    York and the increase in FABBS due. We do our best to break even to
+    keep costs down for everyone.
 
-If your university/job is covering the cost of the conference, consider covering the fees for us! (not necessary, just an option). If you use a paypal account, we will see the name associated with that account. If you pay directly with a credit card (no PayPal account necessary), your information will be grabbed from that page. If you are paying for someone else, please leave a note or send an email to compinpsych@gmail.com so we can make name tags. We are registered 503(c), which makes your donation a tax exemption if you are in the United States! This registration also lowers the credit card/paypal fees. You can also pay by cash or check in person at the conference (US Dollars).
-Late Breaking Posters
+If your university/job is covering the cost of the conference, consider
+covering the fees for us! (not necessary, just an option). If you use a
+paypal account, we will see the name associated with that account. If
+you pay directly with a credit card (no PayPal account necessary), your
+information will be grabbed from that page. If you are paying for
+someone else, please leave a note or send an email to
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} so we can
+make name tags. We are registered 503(c), which makes your donation a
+tax exemption if you are in the United States! This registration also
+lowers the credit card/paypal fees. You can also pay by cash or check in
+person at the conference (US Dollars). Late Breaking Posters
 
-
-If you, your students, or colleagues want to present a poster at the conference - we still have room! We will accept these until November 10th. Please fill out the submission form here.
-
+If you, your students, or colleagues want to present a poster at the
+conference - we still have room! We will accept these until November
+10th. Please fill out the submission form here.
 
 Let us know if you have any questions.
-
 
 Thank you!
 
@@ -85,78 +202,171 @@ Erin Buchanan, Executive Director
 
 Dear colleague,
 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Learn more about the nomination process and voting here. You can nominate yourself or others while submitting your abstract for the conference. Note you can also just nominate individuals without submitting an abstract. Use this submission form for nominations and abstract submission. 
+We now invite nominations for candidates for [a] three positions on the
+Society's Steering Committee, [b] for the new President-Elect. All
+members are invited to participate in this process. Learn more about the
+nomination process and voting here. You can nominate yourself or others
+while submitting your abstract for the conference. Note you can also
+just nominate individuals without submitting an abstract. Use this
+submission form for nominations and abstract submission.
 
-The 54th annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 21, 2024, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by August 31, 2024. We will be holding this event in person in New York in tandem with the Psychonomic Society Meeting.
+The 54th annual meeting of the Society for Computation in Psychology
+(SCiP) is pleased to announce its call for abstracts. The meeting will
+be held on Thursday, November 21, 2024, before the opening of the annual
+meeting of the Psychonomic Society. We invite you to submit your
+abstract by August 31, 2024. We will be holding this event in person in
+New York in tandem with the Psychonomic Society Meeting.
 
-The theme for this year’s conference is Digital Cognitive Science: Software-driven Insights into the Mind. We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our online submission form or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The theme for this year’s conference is Digital Cognitive Science:
+Software-driven Insights into the Mind. We encourage our members to
+share this call with others who are doing related work but who may not
+be regular SCiP attendees. To submit an abstract or symposium proposal,
+please follow the instructions on our online submission form or linked
+on our website. Please consider forwarding our conference call to folks
+around your department (especially if they have been unable to attend
+SCiP in the past). We hope to see you there!
 
-Sincerely,
-Shelia Kennison (Oklahoma State U.), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
+Sincerely, Shelia Kennison (Oklahoma State U.), SCiP President Erin
+Buchanan (Harrisburg U.), SCiP Executive Director
 
 Special Collection of Behavior Research Methods
 
 Student Awards
 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details. 
+First-time graduate student presenters are strongly encouraged to submit
+abstracts. If you are a first-time graduate student attending SCiP, and
+the primary presenter, you may be eligible to have your registration
+waived as part of the Birnbaum Scholarship for first-time graduate
+presenters. Please contact our Executive Director, Erin Buchanan at
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} for
+details.
 
-
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results (up to 3000 words, excluding references, tables, figures, and a title page). Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by October 15th, 2024. The award for the outstanding student paper will be announced after the conference. 
+The Society sponsors The Castellan Student Paper Award for the
+outstanding student paper. Student papers should consist of a brief
+introduction, methods, and results (up to 3000 words, excluding
+references, tables, figures, and a title page). Student papers on the
+application of computers to any area of psychology (theoretical,
+experimental, applied) are welcome. Eligibility is open to work done by
+a student currently enrolled in undergraduate or graduate courses, or
+work done as part of a course, thesis, or other student research by a
+person who graduated within the last year. The student must be the
+primary author and the presenter of the paper. The winning author will
+receive a one year membership in the Society and a \$200 cash prize.
+Students are required to submit the complete manuscript for evaluation
+for the competition by October 15th, 2024. The award for the outstanding
+student paper will be announced after the conference.
 
 ### Conference Program - October 16th, 2023
 
-[Check out the program](https://docs.google.com/document/d/1Fc980u5TAe7RG0chN235-Ts2hMCaz65buaMjSCo-2-0/edit?usp=sharing)
+[Check out the
+program](https://docs.google.com/document/d/1Fc980u5TAe7RG0chN235-Ts2hMCaz65buaMjSCo-2-0/edit?usp=sharing)
 
 ### Call for 2023 Conference
 
-EXTENDED TO 9/1! We will send out information about registration after we are able to estimate the cost of food. 
+EXTENDED TO 9/1! We will send out information about registration after
+we are able to estimate the cost of food.
 
 Dear colleague,
 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Learn more about the nomination process and voting here. You can nominate yourself or others while submitting your abstract for the conference. Note you can also just nominate individuals without submitting an abstract. Use this submission form for nominations and abstract submission. 
+We now invite nominations for candidates for [a] three positions on the
+Society's Steering Committee, [b] for the new President-Elect. All
+members are invited to participate in this process. Learn more about the
+nomination process and voting here. You can nominate yourself or others
+while submitting your abstract for the conference. Note you can also
+just nominate individuals without submitting an abstract. Use this
+submission form for nominations and abstract submission.
 
-The 53rd annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 16, 2023, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by September 1, 2023. We will be holding this event in person in San Francisco in tandem with the Psychonomic Society Meeting.
+The 53rd annual meeting of the Society for Computation in Psychology
+(SCiP) is pleased to announce its call for abstracts. The meeting will
+be held on Thursday, November 16, 2023, before the opening of the annual
+meeting of the Psychonomic Society. We invite you to submit your
+abstract by September 1, 2023. We will be holding this event in person
+in San Francisco in tandem with the Psychonomic Society Meeting.
 
-The theme for this year’s conference is Advancing Theory by Opening the Black Box: Uses of AI in Psychology. We encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our online submission form or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
+The theme for this year’s conference is Advancing Theory by Opening the
+Black Box: Uses of AI in Psychology. We encourage our members to share
+this call with others who are doing related work but who may not be
+regular SCiP attendees. To submit an abstract or symposium proposal,
+please follow the instructions on our online submission form or linked
+on our website. Please consider forwarding our conference call to folks
+around your department (especially if they have been unable to attend
+SCiP in the past). We hope to see you there!
 
-Sincerely,
-Caitlin Mills (U. Minnesota), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
-
+Sincerely, Caitlin Mills (U. Minnesota), SCiP President Erin Buchanan
+(Harrisburg U.), SCiP Executive Director
 
 Special Collection of Behavior Research Methods
 
 Student Awards
 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details. 
+First-time graduate student presenters are strongly encouraged to submit
+abstracts. If you are a first-time graduate student attending SCiP, and
+the primary presenter, you may be eligible to have your registration
+waived as part of the Birnbaum Scholarship for first-time graduate
+presenters. Please contact our Executive Director, Erin Buchanan at
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} for
+details.
 
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results (up to 3000 words, excluding references, tables, figures, and a title page). Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by October 15th, 2023. The award for the outstanding student paper will be announced after the conference. 
-
+The Society sponsors The Castellan Student Paper Award for the
+outstanding student paper. Student papers should consist of a brief
+introduction, methods, and results (up to 3000 words, excluding
+references, tables, figures, and a title page). Student papers on the
+application of computers to any area of psychology (theoretical,
+experimental, applied) are welcome. Eligibility is open to work done by
+a student currently enrolled in undergraduate or graduate courses, or
+work done as part of a course, thesis, or other student research by a
+person who graduated within the last year. The student must be the
+primary author and the presenter of the paper. The winning author will
+receive a one year membership in the Society and a \$200 cash prize.
+Students are required to submit the complete manuscript for evaluation
+for the competition by October 15th, 2023. The award for the outstanding
+student paper will be announced after the conference.
 
 ### Conference Program - October 10th, 2022
 
 SCiP 2022 Conference
 
-Hello everyone! The SCiP Program for the 2022 conference is now available for everyone with a few small pending updates. You can view the program by using this link. The program has the complete schedule, locations, and preparation for SCiP 2022. The theme this year is Psychology in the Age of Technology, and we hope you join us for the 52nd meeting of the Society for Computation in Psychology.
+Hello everyone! The SCiP Program for the 2022 conference is now
+available for everyone with a few small pending updates. You can view
+the program by using this link. The program has the complete schedule,
+locations, and preparation for SCiP 2022. The theme this year is
+Psychology in the Age of Technology, and we hope you join us for the
+52nd meeting of the Society for Computation in Psychology.
 
 Register and Pay Conference Fee
 
-Pay your conference fee/register for the conference using our PayPal link.
+Pay your conference fee/register for the conference using our PayPal
+link.
 
 Pick a price point on the site:
 
-Student and Post Docs: $50.00
+Student and Post Docs: \$50.00
 
-Faculty/Independent Researchers (people with jobs who’ve graduated): $100.00
+Faculty/Independent Researchers (people with jobs who’ve graduated):
+\$100.00
 
-I feel like covering some extra fees: $105.00
+I feel like covering some extra fees: \$105.00
 
-If your university/job is covering the cost of the conference, consider covering the fees for us! (not necessary, just an option). If you use a paypal account, we will see the name associated with that account. If you pay directly with a credit card (no PayPal account necessary), your information will be grabbed from that page. If you are paying for someone else, please leave a note or send an email to compinpsych@gmail.com so we can make name tags. We are registered 503(c), which makes your donation a tax exemption if you are in the United States! This registration also lowers the credit card/paypal fees. You can also pay by cash or check in person at the conference (US Dollars).
+If your university/job is covering the cost of the conference, consider
+covering the fees for us! (not necessary, just an option). If you use a
+paypal account, we will see the name associated with that account. If
+you pay directly with a credit card (no PayPal account necessary), your
+information will be grabbed from that page. If you are paying for
+someone else, please leave a note or send an email to
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} so we can
+make name tags. We are registered 503(c), which makes your donation a
+tax exemption if you are in the United States! This registration also
+lowers the credit card/paypal fees. You can also pay by cash or check in
+person at the conference (US Dollars).
 
 SCiP Elections
 
-Several individuals have been nominated to fill the SCiP Steering Committee or President role. These nominees have indicated their willingness to serve and have been supported by the current board. Given the number of nominees matches or is less than the number of openings, we invite the SCiP community to vote to confirm their nominations. Please use this link.
+Several individuals have been nominated to fill the SCiP Steering
+Committee or President role. These nominees have indicated their
+willingness to serve and have been supported by the current board. Given
+the number of nominees matches or is less than the number of openings,
+we invite the SCiP community to vote to confirm their nominations.
+Please use this link.
 
 Thank you!
 
@@ -167,54 +377,105 @@ Laura Allen, President
 ### Conference Submissions - June 23rd, 2022
 
 Dear colleague,
- 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Learn more about the nomination process and voting here. You can nominate yourself or others while submitting your abstract for the conference. Note you can also just nominate individuals without submitting an abstract. Use this submission form for nominations and abstract submission. 
- 
-The 52nd annual meeting of the Society for Computation in Psychology (SCiP) is pleased to announce its call for abstracts. The meeting will be held on Thursday, November 17, 2022, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your abstract by August 1, 2022. We will be holding this event in person in Boston in tandem with the Psychonomic Society Meeting. 
- 
-The theme for this year’s conference is Psychology in the Age of Technology: Implications for Philosophy, Methods, and Practice. How has psychological study changed with the advances in technology? What is our role in this change? We also encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our online submission form or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
- 
-Sincerely,
-Laura Allen (U. Minnesota), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
- 
+
+We now invite nominations for candidates for [a] three positions on the
+Society's Steering Committee, [b] for the new President-Elect. All
+members are invited to participate in this process. Learn more about the
+nomination process and voting here. You can nominate yourself or others
+while submitting your abstract for the conference. Note you can also
+just nominate individuals without submitting an abstract. Use this
+submission form for nominations and abstract submission.
+
+The 52nd annual meeting of the Society for Computation in Psychology
+(SCiP) is pleased to announce its call for abstracts. The meeting will
+be held on Thursday, November 17, 2022, before the opening of the annual
+meeting of the Psychonomic Society. We invite you to submit your
+abstract by August 1, 2022. We will be holding this event in person in
+Boston in tandem with the Psychonomic Society Meeting.
+
+The theme for this year’s conference is Psychology in the Age of
+Technology: Implications for Philosophy, Methods, and Practice. How has
+psychological study changed with the advances in technology? What is our
+role in this change? We also encourage our members to share this call
+with others who are doing related work but who may not be regular SCiP
+attendees. To submit an abstract or symposium proposal, please follow
+the instructions on our online submission form or linked on our website.
+Please consider forwarding our conference call to folks around your
+department (especially if they have been unable to attend SCiP in the
+past). We hope to see you there!
+
+Sincerely, Laura Allen (U. Minnesota), SCiP President Erin Buchanan
+(Harrisburg U.), SCiP Executive Director
+
 Special Collection of Behavior Research Methods
- 
+
 Student Awards
- 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych@gmail.com for details. 
- 
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers should consist of a brief introduction, methods, and results (up to 3000 words, excluding references, tables, figures, and a title page). Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society and a $200 cash prize. Students are required to submit the complete manuscript for evaluation for the competition by November 1, 2022. The award for the outstanding student paper will be announced after the conference. 
+
+First-time graduate student presenters are strongly encouraged to submit
+abstracts. If you are a first-time graduate student attending SCiP, and
+the primary presenter, you may be eligible to have your registration
+waived as part of the Birnbaum Scholarship for first-time graduate
+presenters. Please contact our Executive Director, Erin Buchanan at
+[compinpsych\@gmail.com](mailto:compinpsych@gmail.com){.email} for
+details.
+
+The Society sponsors The Castellan Student Paper Award for the
+outstanding student paper. Student papers should consist of a brief
+introduction, methods, and results (up to 3000 words, excluding
+references, tables, figures, and a title page). Student papers on the
+application of computers to any area of psychology (theoretical,
+experimental, applied) are welcome. Eligibility is open to work done by
+a student currently enrolled in undergraduate or graduate courses, or
+work done as part of a course, thesis, or other student research by a
+person who graduated within the last year. The student must be the
+primary author and the presenter of the paper. The winning author will
+receive a one year membership in the Society and a \$200 cash prize.
+Students are required to submit the complete manuscript for evaluation
+for the competition by November 1, 2022. The award for the outstanding
+student paper will be announced after the conference.
 
 ### Conference Update - September 3, 2021
 
 Hi SCiPpers!
 
-As per usual, we are extending the deadline for conference presentations. We should be able to take presentation submissions for another week in order to meet the deadlines for giving our information to the Psychonomic Society. Please note the conference is now fully virtual in line with Psychonomic Society’s recent decision. We will automatically convert any “in person” submissions to virtual. If you would like to update anything else with your submission, you can resubmit or contact compinpsych\@gmail.com. 
+As per usual, we are extending the deadline for conference
+presentations. We should be able to take presentation submissions for
+another week in order to meet the deadlines for giving our information
+to the Psychonomic Society. Please note the conference is now fully
+virtual in line with Psychonomic Society’s recent decision. We will
+automatically convert any “in person” submissions to virtual. If you
+would like to update anything else with your submission, you can
+resubmit or contact compinpsych\@gmail.com.
 
-- Submit for the conference: https://forms.gle/aRD35wAMhnQTpaFs7 by September 10th.
-- Nominate members or yourself for FABBS Early Career Award: https://forms.gle/z1mdg6hGWhqARZjBA by September 10th. 
-- The conference fees will be the same as last year \$15 for students/post docs and \$25 for faculty. We will accept payments on our website soon and an invoice will be sent to each author directly (if an author is not attending they can simply email that information to compinpsych\@gmail.com).
+-   Submit for the conference: <https://forms.gle/aRD35wAMhnQTpaFs7> by
+    September 10th.
+-   Nominate members or yourself for FABBS Early Career Award:
+    <https://forms.gle/z1mdg6hGWhqARZjBA> by September 10th.
+-   The conference fees will be the same as last year \$15 for
+    students/post docs and \$25 for faculty. We will accept payments on
+    our website soon and an invoice will be sent to each author directly
+    (if an author is not attending they can simply email that
+    information to compinpsych\@gmail.com).
 
-Important Due Dates: 
+Important Due Dates:
 
-- Conference Submissions - September 10
-- Nominate Early Career Awards - September 10
-- Steering Committee/Presentation Notices - September 15
-- Notification for Acceptance for Conference  - September 15 
-- Online Spoken Talks Due - TBA
-- Castellen Students Papers Due - October 1
-- Online Poster Presentations Due - October 12
-- Access to Virtual Platform - October 18
-- Conference - November 4
+-   Conference Submissions - September 10
+-   Nominate Early Career Awards - September 10
+-   Steering Committee/Presentation Notices - September 15
+-   Notification for Acceptance for Conference - September 15
+-   Online Spoken Talks Due - TBA
+-   Castellen Students Papers Due - October 1
+-   Online Poster Presentations Due - October 12
+-   Access to Virtual Platform - October 18
+-   Conference - November 4
 
-Sincerely,
-Pietro Cipresso (U. Turin), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
-Rick Dale (UCLA), SCiP Executive Director
- 
-PS - Please note that I (Erin) had to evacuate due to Hurricane Ida. I am doing my best to respond to emails, but if it’s been several days, please feel free to message compinpsych\@gmail.com a reminder. 
+Sincerely, Pietro Cipresso (U. Turin), SCiP President Erin Buchanan
+(Harrisburg U.), SCiP Executive Director Rick Dale (UCLA), SCiP
+Executive Director
 
+PS - Please note that I (Erin) had to evacuate due to Hurricane Ida. I
+am doing my best to respond to emails, but if it’s been several days,
+please feel free to message compinpsych\@gmail.com a reminder.
 
 ### Conference Reminder - August 16, 2021
 
@@ -222,105 +483,176 @@ Hi SCiPpers!
 
 Three important tasks for you:
 
-- Nominate members or yourself for the Steering Committee and President: https://forms.gle/15H4HXPFRik3p7Ly7 extended to August 31st.
-- Submit for the conference: https://forms.gle/aRD35wAMhnQTpaFs7 by August 31st.
-- Nominate members or yourself for FABBS Early Career Award: https://forms.gle/z1mdg6hGWhqARZjBA by September 10th. 
+-   Nominate members or yourself for the Steering Committee and
+    President: <https://forms.gle/15H4HXPFRik3p7Ly7> extended to August
+    31st.
+-   Submit for the conference: <https://forms.gle/aRD35wAMhnQTpaFs7> by
+    August 31st.
+-   Nominate members or yourself for FABBS Early Career Award:
+    <https://forms.gle/z1mdg6hGWhqARZjBA> by September 10th.
 
-Conference Update: The Psychonomic Society is still planning for a hybrid conference, but is monitoring the situation in Louisiana (which is currently not optimal). The city of New Orleans has recently put in a mandate that patrons must show vaccination proof or a negative COVID test to enter buildings. We will monitor the situation to be flexible with those who want to change to virtual presentations if that need arises. 
+Conference Update: The Psychonomic Society is still planning for a
+hybrid conference, but is monitoring the situation in Louisiana (which
+is currently not optimal). The city of New Orleans has recently put in a
+mandate that patrons must show vaccination proof or a negative COVID
+test to enter buildings. We will monitor the situation to be flexible
+with those who want to change to virtual presentations if that need
+arises.
 
-Important Due Dates: 
- 
-- Nominate Steering Committee Members / President - August 31 
-- Conference Submissions - August 31
-- Nominate Early Career Awards - September 10
-- We submit agenda to Psychonomics - September 13
-- Notification to you of presentation - September 15
-- Steering Committee / President Election - September 15
-- Finalized agenda to Psychonomics -  September 20
-- Castellan Papers due - October 1
-- Online Poster presentations due - October 12
-- Online Spoken presentations due - October TBD
-- Virtual Platform Access - October 18
-- Conference - November 4
- 
-Sincerely,
-Pietro Cipresso (U. Turin), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
-Rick Dale (UCLA), SCiP Executive Director
+Important Due Dates:
 
+-   Nominate Steering Committee Members / President - August 31
+-   Conference Submissions - August 31
+-   Nominate Early Career Awards - September 10
+-   We submit agenda to Psychonomics - September 13
+-   Notification to you of presentation - September 15
+-   Steering Committee / President Election - September 15
+-   Finalized agenda to Psychonomics - September 20
+-   Castellan Papers due - October 1
+-   Online Poster presentations due - October 12
+-   Online Spoken presentations due - October TBD
+-   Virtual Platform Access - October 18
+-   Conference - November 4
+
+Sincerely, Pietro Cipresso (U. Turin), SCiP President Erin Buchanan
+(Harrisburg U.), SCiP Executive Director Rick Dale (UCLA), SCiP
+Executive Director
 
 ### Call for Presenters - July 27, 2021
 
 Dear colleague,
- 
-Welcome to the new SCiP mailing list! You can unsubscribe with the links below or forward this email to people who may not have received it to sign up here (https://mailchi.mp/4df6e290ffee/ub0p519mz8). Check out our new website at https://computationinpsych.com/. 
- 
-We now invite nominations for candidates for [a] three positions on the Society's Steering Committee, [b] for the new President-Elect. All members are invited to participate in this process. Nominate your candidates here by August 15th, 2021. 
- 
-[a] Steering Committee: We need to replace members of the Steering Committee whose terms of office will end this year. The Society bylaws specify that each member may nominate up to five persons for the Steering Committee. The names of the six persons receiving the greatest number of nominations, and who signify their willingness to serve on the Steering Committee, will be placed on the election ballot. Elected members will serve for a three-year term, and cannot be elected to two consecutive terms. Self-nominations of qualified candidates are welcome.
-[b] President: The Society bylaws specify that each member may nominate up to two persons to serve as President-Elect. The names of three persons receiving the greatest number of nominations, and who signify their willingness to serve as President, will be placed on the election ballot. The President will serve for 1 year, and will constitute part of the Steering Committee as President-Elect and Past-President for 1 year each. Past Presidents are not eligible for re-election as President-Elect.
- 
-The 51st annual meeting of the Society for Computation in Psychology (SCiP; formerly known as the Society for Computers in Psychology) is pleased to announce its call for papers. The meeting will be held on Thursday, November 4, 2021, before the opening of the annual meeting of the Psychonomic Society. We invite you to submit your paper by August 31, 2021. We will be holding this event as a hybrid with both in person and online presentations with more details to come as we learn them. 
- 
-The theme for this year’s conference is 50 Years of Computation. As the world increasingly relies on computation, we look back to the advances and innovations from psychology and beyond. Submissions reflecting on the history of advancement in their area are welcomed. We also encourage our members to share this call with others who are doing related work but who may not be regular SCiP attendees. To submit an abstract or symposium proposal, please follow the instructions on our online submission form or linked on our website. Please consider forwarding our conference call to folks around your department (especially if they have been unable to attend SCiP in the past). We hope to see you there!
- 
-Sincerely,
-Pietro Cipresso (U. Turin), SCiP President
-Erin Buchanan (Harrisburg U.), SCiP Executive Director
-Rick Dale (UCLA), SCiP Executive Director
- 
-Important dates:
- 
-Nominate Steering Committee Members / President
-August 15
-Nominee Information Due
-August 22
-Steering Committee / President Election 
-August 31
-Conference Submissions 
-August 31
-Notification of Acceptance for Conference 
-September 15
-Online Presentations Due
-TBA
-Castellan Student Papers Due
-October 1
-Conference
-November 4
 
- 
+Welcome to the new SCiP mailing list! You can unsubscribe with the links
+below or forward this email to people who may not have received it to
+sign up here (<https://mailchi.mp/4df6e290ffee/ub0p519mz8>). Check out
+our new website at <https://computationinpsych.com/>.
+
+We now invite nominations for candidates for [a] three positions on the
+Society's Steering Committee, [b] for the new President-Elect. All
+members are invited to participate in this process. Nominate your
+candidates here by August 15th, 2021.
+
+[a] Steering Committee: We need to replace members of the Steering
+Committee whose terms of office will end this year. The Society bylaws
+specify that each member may nominate up to five persons for the
+Steering Committee. The names of the six persons receiving the greatest
+number of nominations, and who signify their willingness to serve on the
+Steering Committee, will be placed on the election ballot. Elected
+members will serve for a three-year term, and cannot be elected to two
+consecutive terms. Self-nominations of qualified candidates are welcome.
+[b] President: The Society bylaws specify that each member may nominate
+up to two persons to serve as President-Elect. The names of three
+persons receiving the greatest number of nominations, and who signify
+their willingness to serve as President, will be placed on the election
+ballot. The President will serve for 1 year, and will constitute part of
+the Steering Committee as President-Elect and Past-President for 1 year
+each. Past Presidents are not eligible for re-election as
+President-Elect.
+
+The 51st annual meeting of the Society for Computation in Psychology
+(SCiP; formerly known as the Society for Computers in Psychology) is
+pleased to announce its call for papers. The meeting will be held on
+Thursday, November 4, 2021, before the opening of the annual meeting of
+the Psychonomic Society. We invite you to submit your paper by August
+31, 2021. We will be holding this event as a hybrid with both in person
+and online presentations with more details to come as we learn them.
+
+The theme for this year’s conference is 50 Years of Computation. As the
+world increasingly relies on computation, we look back to the advances
+and innovations from psychology and beyond. Submissions reflecting on
+the history of advancement in their area are welcomed. We also encourage
+our members to share this call with others who are doing related work
+but who may not be regular SCiP attendees. To submit an abstract or
+symposium proposal, please follow the instructions on our online
+submission form or linked on our website. Please consider forwarding our
+conference call to folks around your department (especially if they have
+been unable to attend SCiP in the past). We hope to see you there!
+
+Sincerely, Pietro Cipresso (U. Turin), SCiP President Erin Buchanan
+(Harrisburg U.), SCiP Executive Director Rick Dale (UCLA), SCiP
+Executive Director
+
+Important dates:
+
+Nominate Steering Committee Members / President August 15 Nominee
+Information Due August 22 Steering Committee / President Election August
+31 Conference Submissions August 31 Notification of Acceptance for
+Conference September 15 Online Presentations Due TBA Castellan Student
+Papers Due October 1 Conference November 4
+
 What is SCiP?
- 
-If you are new to SCiP, it is an organization of researchers interested in applications of computational techniques and methods in psychology. This includes applications in educational technology, emerging research methods, statistical analyses, web-based research, clinical applications, and computational modeling. The Society has also encouraged consideration of psychological aspects of hardware and software development and design. Membership is open to any person who has an academic degree and who is active in scientific applications of computers to psychological research.
- 
+
+If you are new to SCiP, it is an organization of researchers interested
+in applications of computational techniques and methods in psychology.
+This includes applications in educational technology, emerging research
+methods, statistical analyses, web-based research, clinical
+applications, and computational modeling. The Society has also
+encouraged consideration of psychological aspects of hardware and
+software development and design. Membership is open to any person who
+has an academic degree and who is active in scientific applications of
+computers to psychological research.
+
 Program Information for the 2021 Conference
- 
-The program will include papers, tutorials, and symposia dealing with the use of computers in all areas of psychological research, including (but not limited to): 
- 
-     Web-based research, data collection, and tools
-     Online social media and communication
-     Brain imaging methods and analysis
-     Human-computer interaction 
-     Diagnostic and assessment tools
-     Eye tracking tools and applications
-     Novel experimental methodology
-     Psychology of video games
-     Instructional software
-     Modeling cognitive and neural processes
-     Statistical software and algorithms
-     Online learning and instruction
-     Virtual environments
- 
-You need not be a current member of SCiP to present at the conference, and the modest conference registration fee also serves as your annual membership dues.
- 
+
+The program will include papers, tutorials, and symposia dealing with
+the use of computers in all areas of psychological research, including
+(but not limited to):
+
+```         
+ Web-based research, data collection, and tools
+ Online social media and communication
+ Brain imaging methods and analysis
+ Human-computer interaction 
+ Diagnostic and assessment tools
+ Eye tracking tools and applications
+ Novel experimental methodology
+ Psychology of video games
+ Instructional software
+ Modeling cognitive and neural processes
+ Statistical software and algorithms
+ Online learning and instruction
+ Virtual environments
+```
+
+You need not be a current member of SCiP to present at the conference,
+and the modest conference registration fee also serves as your annual
+membership dues.
+
 Special Section of Behavior Research Methods
- 
-Conference presenters (both spoken and poster presentations) are invited to submit articles based on presentations at the SCiP meeting to a special section of Behavior Research Methods, the official journal of the Society. Submissions should be prepared according to the guidelines of BRM (see http://brm.psychonomic journals.org/) and submitted through the BRM submission portal. It is important to indicate that the submission is for the “SCiP Issue.” in the online portal. Submissions are reviewed and published in an online collection, and therefore, they can be submitted at any time. 
- 
+
+Conference presenters (both spoken and poster presentations) are invited
+to submit articles based on presentations at the SCiP meeting to a
+special section of Behavior Research Methods, the official journal of
+the Society. Submissions should be prepared according to the guidelines
+of BRM (see <http://brm.psychonomic> journals.org/) and submitted
+through the BRM submission portal. It is important to indicate that the
+submission is for the “SCiP Issue.” in the online portal. Submissions
+are reviewed and published in an online collection, and therefore, they
+can be submitted at any time.
+
 Student Awards
- 
-First-time graduate student presenters are strongly encouraged to submit abstracts. If you are a first-time graduate student attending SCiP, and the primary presenter, you may be eligible to have your registration waived as part of the Birnbaum Scholarship for first-time graduate presenters. Please contact our Executive Director, Erin Buchanan at compinpsych\@gmail.com for details. Please note that if you missed out last year, you are eligible this year!
- 
-The Society sponsors The Castellan Student Paper Award for the outstanding student paper. Student papers on the application of computers to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the last year. The student must be the primary author and the presenter of the paper. The winning author will receive a one year membership in the Society, a one year subscription to BRM, and a $200 cash prize. 
- 
-Students who wish to have their papers considered for the award should indicate their desire at the time of submission and are required to submit the complete manuscript for evaluation for the competition by October 1, 2021. The award for the outstanding student paper will be presented at the conference during the business meeting. 
+
+First-time graduate student presenters are strongly encouraged to submit
+abstracts. If you are a first-time graduate student attending SCiP, and
+the primary presenter, you may be eligible to have your registration
+waived as part of the Birnbaum Scholarship for first-time graduate
+presenters. Please contact our Executive Director, Erin Buchanan at
+compinpsych\@gmail.com for details. Please note that if you missed out
+last year, you are eligible this year!
+
+The Society sponsors The Castellan Student Paper Award for the
+outstanding student paper. Student papers on the application of
+computers to any area of psychology (theoretical, experimental, applied)
+are welcome. Eligibility is open to work done by a student currently
+enrolled in undergraduate or graduate courses, or work done as part of a
+course, thesis, or other student research by a person who graduated
+within the last year. The student must be the primary author and the
+presenter of the paper. The winning author will receive a one year
+membership in the Society, a one year subscription to BRM, and a \$200
+cash prize.
+
+Students who wish to have their papers considered for the award should
+indicate their desire at the time of submission and are required to
+submit the complete manuscript for evaluation for the competition by
+October 1, 2021. The award for the outstanding student paper will be
+presented at the conference during the business meeting.
