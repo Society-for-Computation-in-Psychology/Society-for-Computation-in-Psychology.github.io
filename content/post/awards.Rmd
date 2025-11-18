@@ -12,7 +12,7 @@ library(rio)
 library(flextable)
 ```
 
-## Castellan Prize
+## Castellan Prize 
 
 SCiP's primary annual award is the **The John Castellan Student Paper Award** for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year. The student must be the primary author and the presenter of the paper to be considered. The award is presented at the conference. 
 

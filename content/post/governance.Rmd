@@ -88,7 +88,7 @@ showDate: false
 - 1973: Donald Tepas, Saint Louis University
 - 1972: Donald Tepas, Saint Louis University
 
-### Past Steering Committee
+### Past Steering Committee 
 
 - 2023-2025: Katie McCarthy, Georgia State University
 - 2021-2024: Xiaowei Zhao, Emmanuel College 
