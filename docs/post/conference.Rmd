@@ -4,10 +4,10 @@ author: SCiP
 date: '2021-06-25'
 slug: conference
 url: /conference/
-showDate: false
+showDate: false 
 ---
 
-### 2025 Conference Information 
+### 2025 Conference Information  
 
 The theme for this year’s conference is *Computation Everywhere: Studying Cognition in Environments of Technological Ubiquity*. In a time where computers and AI proliferate all aspects of our lives, how do we harness the rapidly evolving power of computation to study cognition? 
 
