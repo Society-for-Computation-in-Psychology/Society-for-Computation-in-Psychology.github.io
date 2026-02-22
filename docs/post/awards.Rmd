@@ -4,7 +4,7 @@ author: SCiP
 date: '2021-06-10'
 slug: awards
 url: /awards/
-showDate: false 
+showDate: false
 ---
 
 ```{r echo = F, warning = F, message = F}

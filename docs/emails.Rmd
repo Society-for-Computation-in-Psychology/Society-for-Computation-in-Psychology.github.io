@@ -5,7 +5,7 @@ url: /emails/
 showDate: false
 editor_options: 
   markdown: 
-    wrap: 72
+    wrap: 72 
 ---
 
 Please note that not all links will be available as this is an archive

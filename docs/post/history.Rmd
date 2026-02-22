@@ -4,7 +4,7 @@ author: SCiP
 date: '2021-06-15'
 slug: history
 url: /history/
-showDate: false
+showDate: false 
 ---
 
 In 1971, Donald Tepas, then at St. Louis University, contacted the National Science Foundation with a request for support in developing an interactive system for searches. The NSF representative Tepas looked into the possibility of arranging a conference and publishing the proceedings. The first meeting was so successful that the meetings have been held ever since! The logo featured on our homepage.

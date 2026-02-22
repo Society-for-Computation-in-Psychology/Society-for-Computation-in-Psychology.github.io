@@ -68,6 +68,12 @@ publishDir = "docs"
   name = "Awards"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
   url = "/awards/"
+[[menu.main]]
+  weight = 5
+  identifier = "subscribe"
+  name = "Subscribe"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-plus\"></i>"
+  url = "/Subscribe/"
   
 [[menu.links]]
   weight = 1
@@ -127,3 +133,9 @@ publishDir = "docs"
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
   coverImage = "computation_background2.jpg"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

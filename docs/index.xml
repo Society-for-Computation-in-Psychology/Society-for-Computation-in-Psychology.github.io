@@ -19,6 +19,15 @@ You can view our previous emails to the society using this link.
     </item>
     
     <item>
+      <title>Subscribe to the Mailing List</title>
+      <link>https://society-for-computation-in-psychology.github.io/subscribe/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/subscribe/</guid>
+      <description>@import url(&#34;https://assets.mlcdn.com/fonts.css?version=1771504&#34;); /* LOADER */ .ml-form-embedSubmitLoad { display: inline-block; width: 20px; height: 20px; } .g-recaptcha { transform: scale(1); -webkit-transform: scale(1); transform-origin: 0 0; -webkit-transform-origin: 0 0; height: ; } .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; } .ml-form-embedSubmitLoad:after { content: &#34; &#34;; display: block; width: 11px; height: 11px; margin: 1px; border-radius: 50%; border: 4px solid #fff; border-color: #ffffff #ffffff #ffffff transparent; animation: ml-form-embedSubmitLoad 1.</description>
+    </item>
+    
+    <item>
       <title>Conference Information</title>
       <link>https://society-for-computation-in-psychology.github.io/conference/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
@@ -55,6 +64,17 @@ The Society for Computation in Psychology (SCiP) was previously known as the Nat
       
       <guid>https://society-for-computation-in-psychology.github.io/awards/</guid>
       <description>Castellan Prize SCiP’s primary annual award is the The John Castellan Student Paper Award for the most outstanding student paper. Student papers on the application of computational or computerized methods to any area of psychology (theoretical, experimental, applied) are welcome. Eligibility is open to work done by a student currently enrolled in undergraduate or graduate courses, or work done as part of a course, thesis, or other student research by a person who graduated within the past year.</description>
+    </item>
+    
+    <item>
+      <title>Previous Emails</title>
+      <link>https://society-for-computation-in-psychology.github.io/emails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://society-for-computation-in-psychology.github.io/emails/</guid>
+      <description>Please note that not all links will be available as this is an archive of the emails. Check the Announcements page for active links to conference submissions and other nominations.
+SCiP 2025 Register and Program SCiP 2025 Conference
+Hello everyone! The SCiP Program for the 2025 conference is now available for everyone with a few small pending updates. You can view the program by using this link. The program has the complete schedule, locations, and preparation for SCiP 2025.</description>
     </item>
     
   </channel>
